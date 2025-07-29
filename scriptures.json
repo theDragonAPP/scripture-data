@@ -1,0 +1,202 @@
+[
+  {
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "reference": "John 3:16",
+    "category": "Love",
+    "tags": ["love", "sacrifice", "salvation"],
+    "interpretations": {
+      "Pastor Elijah": "Imagine someone donating a kidney to save a stranger’s life. God went further by giving His Son so we could live forever.",
+      "Sister Grace": "This is like a parent working two jobs to give their child a better future. God's love is even greater."
+    }
+  },
+  {
+    "text": "I can do all things through Christ who strengthens me.",
+    "reference": "Philippians 4:13",
+    "category": "Strength",
+    "tags": ["strength", "faith"],
+    "interpretations": {
+      "Brother Noah": "Think of facing a tough exam or interview but knowing someone has your back. Christ gives that inner strength daily.",
+      "Deacon Ezra": "When life feels like climbing a steep hill, this verse is your reminder you’re not climbing alone."
+    }
+  },
+  {
+    "text": "The Lord is my shepherd; I shall not want.",
+    "reference": "Psalm 23:1",
+    "category": "Guidance",
+    "tags": ["trust", "guidance", "provision"],
+    "interpretations": {
+      "Pastor Miriam": "Like having GPS in an unknown city, God guides and provides direction so you don’t have to fear being lost.",
+      "Brother Elias": "It's like having a steady paycheck when you're worried about bills; God ensures we have what we need."
+    }
+  },
+  {
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "reference": "Matthew 11:28",
+    "category": "Rest",
+    "tags": ["rest", "comfort", "stress"],
+    "interpretations": {
+      "Sister Naomi": "This is like finally sitting down after carrying groceries up five flights of stairs — that relief is what Jesus offers spiritually.",
+      "Pastor Josiah": "When stress builds from work or relationships, this verse reminds us there’s a safe place for our souls."
+    }
+  },
+  {
+    "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
+    "reference": "Proverbs 3:5",
+    "category": "Trust",
+    "tags": ["trust", "faith"],
+    "interpretations": {
+      "Pastor Micah": "Like following GPS even when it reroutes through a weird side road; trusting God’s path often doesn’t make sense at first.",
+      "Sister Lydia": "It’s like handing over the wheel to someone who knows the road better than you do."
+    }
+  },
+  {
+    "text": "Be still, and know that I am God.",
+    "reference": "Psalm 46:10",
+    "category": "Peace",
+    "tags": ["peace", "faith"],
+    "interpretations": {
+      "Brother Caleb": "Think of pausing your notifications for a moment of silence; God invites us to pause and trust His control.",
+      "Pastor Rachel": "Like sitting on a porch swing, watching the sunset, letting go of anxiety and trusting God."
+    }
+  },
+  {
+    "text": "Do to others as you would have them do to you.",
+    "reference": "Luke 6:31",
+    "category": "Kindness",
+    "tags": ["kindness", "respect"],
+    "interpretations": {
+      "Sister Hannah": "Like holding the door for someone even when you’re in a rush — simple kindness changes the day.",
+      "Brother Daniel": "Imagine being treated kindly in traffic instead of being cut off; we should give that kindness first."
+    }
+  },
+  {
+    "text": "Love your neighbor as yourself.",
+    "reference": "Mark 12:31",
+    "category": "Love",
+    "tags": ["love", "community"],
+    "interpretations": {
+      "Deacon Jonah": "It’s like lending your lawnmower to a neighbor without expecting anything back.",
+      "Sister Phoebe": "Think of treating the coworker who annoys you with the same patience you want when you mess up."
+    }
+  },
+  {
+    "text": "The Lord is my light and my salvation—whom shall I fear?",
+    "reference": "Psalm 27:1",
+    "category": "Courage",
+    "tags": ["fear", "courage"],
+    "interpretations": {
+      "Pastor Gideon": "Like carrying a flashlight in a dark forest, God’s presence removes fear and gives courage.",
+      "Brother Silas": "Think of walking into an intimidating meeting knowing the CEO is rooting for you — that’s God’s backing."
+    }
+  },
+  {
+    "text": "Cast all your anxiety on Him because He cares for you.",
+    "reference": "1 Peter 5:7",
+    "category": "Anxiety",
+    "tags": ["worry", "care"],
+    "interpretations": {
+      "Sister Abigail": "Like unloading groceries onto a friend’s counter when your arms are full; God invites us to hand Him our stress.",
+      "Pastor Levi": "This is like venting to a trusted friend who listens and helps — God takes it further by giving peace."
+    }
+  },
+  {
+    "text": "In all your ways acknowledge Him, and He will make your paths straight.",
+    "reference": "Proverbs 3:6",
+    "category": "Direction",
+    "tags": ["guidance", "faith"],
+    "interpretations": {
+      "Pastor Malachi": "Like checking your GPS before a trip, acknowledging God keeps you from getting spiritually lost.",
+      "Brother Josiah": "This is like following a personal trainer’s plan instead of guessing at the gym — God’s direction works."
+    }
+  },
+  {
+    "text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+    "reference": "Matthew 7:7",
+    "category": "Prayer",
+    "tags": ["prayer", "faith"],
+    "interpretations": {
+      "Sister Deborah": "Think of applying for a job — you ask, seek, and doors open. God’s system works the same way spiritually.",
+      "Pastor Ezra": "This is like texting a friend for help and knowing they’ll respond — God responds even more reliably."
+    }
+  },
+  {
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles.",
+    "reference": "Isaiah 40:31",
+    "category": "Hope",
+    "tags": ["hope", "strength"],
+    "interpretations": {
+      "Brother Nathan": "Like getting a full night’s sleep after exhaustion, God gives fresh energy for the next day.",
+      "Sister Miriam": "This is like plugging in your phone when it’s dying; God renews your soul’s battery."
+    }
+  },
+  {
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "reference": "Psalm 119:105",
+    "category": "Guidance",
+    "tags": ["guidance", "truth"],
+    "interpretations": {
+      "Pastor Joel": "Like walking with a flashlight in darkness, God’s Word helps you avoid spiritual potholes.",
+      "Sister Leah": "Think of how Google Maps saves you from wrong turns — the Bible keeps your life aligned."
+    }
+  },
+  {
+    "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
+    "reference": "Matthew 6:34",
+    "category": "Peace",
+    "tags": ["worry", "peace"],
+    "interpretations": {
+      "Brother Simon": "Like setting aside your phone at night, trusting you’ll handle messages tomorrow.",
+      "Pastor Lydia": "This is like budgeting one day at a time; you focus on what you can handle now, not tomorrow’s unknowns."
+    }
+  },
+  {
+    "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
+    "reference": "Philippians 4:4",
+    "category": "Joy",
+    "tags": ["joy", "praise"],
+    "interpretations": {
+      "Sister Priscilla": "Like celebrating a small win even when the week was tough, joy isn’t tied to circumstances.",
+      "Pastor Elias": "Think of singing in the shower after a bad day — joy in the Lord resets your perspective."
+    }
+  },
+  {
+    "text": "We love because He first loved us.",
+    "reference": "1 John 4:19",
+    "category": "Love",
+    "tags": ["love", "faith"],
+    "interpretations": {
+      "Brother Stephen": "Like paying forward a stranger buying you coffee — God loved us first so we can love others.",
+      "Sister Ruth": "Think of being shown kindness and naturally passing it along — that’s God’s cycle of love."
+    }
+  },
+  {
+    "text": "Blessed are the peacemakers, for they will be called children of God.",
+    "reference": "Matthew 5:9",
+    "category": "Peace",
+    "tags": ["peace", "forgiveness"],
+    "interpretations": {
+      "Pastor Jonah": "Like mediating between two arguing friends — those who bring peace reflect God’s nature.",
+      "Brother Caleb": "Think of choosing to let go of a grudge at work; you become a channel of God’s peace."
+    }
+  },
+  {
+    "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "reference": "Philippians 4:6",
+    "category": "Prayer",
+    "tags": ["prayer", "anxiety"],
+    "interpretations": {
+      "Sister Esther": "Like calling a friend when stressed and feeling lighter, prayer is handing anxiety to God.",
+      "Pastor Daniel": "This is like filing taxes on time — stressful but necessary; prayer keeps life in order with peace."
+    }
+  },
+  {
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "reference": "Psalm 34:18",
+    "category": "Comfort",
+    "tags": ["comfort", "grief"],
+    "interpretations": {
+      "Brother Levi": "Like a friend sitting silently with you when you’re grieving, God’s closeness is healing.",
+      "Pastor Chloe": "Think of a paramedic rushing to an accident — God draws near when our hearts hurt the most."
+    }
+  }
+]
