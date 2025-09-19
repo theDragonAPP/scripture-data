@@ -1,1644 +1,202 @@
 [
   {
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
     "reference": "John 3:16",
     "category": "Love",
-    "tags": [
-      "love",
-      "salvation",
-      "grace"
-    ],
-    "synonyms": [
-      "believe",
-      "trust",
-      "gift",
-      "sacrifice",
-      "mercy",
-      "grace",
-      "life",
-      "redeem",
-      "atone",
-      "embrace"
-    ],
-    "antonyms": [
-      "reject",
-      "doubt",
-      "condemn",
-      "abandon",
-      "spurn"
-    ],
+    "tags": ["love", "sacrifice", "salvation"],
     "interpretations": {
-      "Devil": "If God loved you, why does pain still rule your life? Don’t trust what you can’t see.",
-      "Flesh": "Enjoy the benefits without giving up control. Believe, but on your terms.",
-      "Angel": "This is love beyond reason — God offers you eternal life freely. Receive it.",
-      "Spirit": "Love transforms. Believe deeply, and let that belief create new life in you and through you."
+      "Pastor Elijah": "Imagine someone donating a kidney to save a stranger’s life. God went further by giving His Son so we could live forever.",
+      "Sister Grace": "This is like a parent working two jobs to give their child a better future. God's love is even greater."
     }
   },
   {
+    "text": "I can do all things through Christ who strengthens me.",
     "reference": "Philippians 4:13",
     "category": "Strength",
-    "tags": [
-      "strength",
-      "endurance",
-      "contentment"
-    ],
-    "synonyms": [
-      "empower",
-      "enable",
-      "sustain",
-      "fortify",
-      "withstand",
-      "persevere",
-      "abide",
-      "endure",
-      "overcome",
-      "prevail"
-    ],
-    "antonyms": [
-      "collapse",
-      "quit",
-      "weaken",
-      "fail",
-      "despair"
-    ],
+    "tags": ["strength", "faith"],
     "interpretations": {
-      "Devil": "You’re only strong if you keep proving yourself. Once you fail, you’re worthless.",
-      "Flesh": "Use Christ as a power boost to get what you want.",
-      "Angel": "Christ strengthens you daily — not for ego, but for endurance.",
-      "Spirit": "Union with Christ empowers contentment in all circumstances, not just victories."
+      "Brother Noah": "Think of facing a tough exam or interview but knowing someone has your back. Christ gives that inner strength daily.",
+      "Deacon Ezra": "When life feels like climbing a steep hill, this verse is your reminder you’re not climbing alone."
     }
   },
   {
+    "text": "The Lord is my shepherd; I shall not want.",
     "reference": "Psalm 23:1",
     "category": "Guidance",
-    "tags": [
-      "shepherd",
-      "provision",
-      "guidance",
-      "security"
-    ],
-    "synonyms": [
-      "lead",
-      "guide",
-      "provide",
-      "care",
-      "guard",
-      "pasture",
-      "rest",
-      "tend",
-      "keep",
-      "sustain"
-    ],
-    "antonyms": [
-      "lack",
-      "want",
-      "abandon",
-      "stray",
-      "starve"
-    ],
+    "tags": ["trust", "guidance", "provision"],
     "interpretations": {
-      "Devil": "God withholds. You’ll be left behind if you don’t fend for yourself.",
-      "Flesh": "Pile up enough to never have to depend on anyone.",
-      "Angel": "God provides. You have a Shepherd who knows every need.",
-      "Spirit": "Sufficiency isn’t about possessions. With the Shepherd, your soul rests in abundance."
+      "Pastor Miriam": "Like having GPS in an unknown city, God guides and provides direction so you don’t have to fear being lost.",
+      "Brother Elias": "It's like having a steady paycheck when you're worried about bills; God ensures we have what we need."
     }
   },
   {
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "reference": "Matthew 11:28",
+    "category": "Rest",
+    "tags": ["rest", "comfort", "stress"],
+    "interpretations": {
+      "Sister Naomi": "This is like finally sitting down after carrying groceries up five flights of stairs — that relief is what Jesus offers spiritually.",
+      "Pastor Josiah": "When stress builds from work or relationships, this verse reminds us there’s a safe place for our souls."
+    }
+  },
+  {
+    "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
     "reference": "Proverbs 3:5",
     "category": "Trust",
-    "tags": [
-      "trust",
-      "guidance",
-      "surrender"
-    ],
-    "synonyms": [
-      "rely",
-      "depend",
-      "yield",
-      "submit",
-      "lean",
-      "entrust",
-      "confidence",
-      "faith",
-      "acknowledge",
-      "direct"
-    ],
-    "antonyms": [
-      "distrust",
-      "resist",
-      "defy",
-      "doubt",
-      "control"
-    ],
+    "tags": ["trust", "faith"],
     "interpretations": {
-      "Devil": "If you don’t rely on your own wisdom, you’ll be fooled.",
-      "Flesh": "Trust God when it’s convenient. Take control when it’s risky.",
-      "Angel": "Let go. God’s wisdom never fails, even when yours runs out.",
-      "Spirit": "Surrender aligns you with God’s path. The straight way is found only in Him."
+      "Pastor Micah": "Like following GPS even when it reroutes through a weird side road; trusting God’s path often doesn’t make sense at first.",
+      "Sister Lydia": "It’s like handing over the wheel to someone who knows the road better than you do."
     }
   },
   {
+    "text": "Be still, and know that I am God.",
+    "reference": "Psalm 46:10",
+    "category": "Peace",
+    "tags": ["peace", "faith"],
+    "interpretations": {
+      "Brother Caleb": "Think of pausing your notifications for a moment of silence; God invites us to pause and trust His control.",
+      "Pastor Rachel": "Like sitting on a porch swing, watching the sunset, letting go of anxiety and trusting God."
+    }
+  },
+  {
+    "text": "Do to others as you would have them do to you.",
+    "reference": "Luke 6:31",
+    "category": "Kindness",
+    "tags": ["kindness", "respect"],
+    "interpretations": {
+      "Sister Hannah": "Like holding the door for someone even when you’re in a rush — simple kindness changes the day.",
+      "Brother Daniel": "Imagine being treated kindly in traffic instead of being cut off; we should give that kindness first."
+    }
+  },
+  {
+    "text": "Love your neighbor as yourself.",
+    "reference": "Mark 12:31",
+    "category": "Love",
+    "tags": ["love", "community"],
+    "interpretations": {
+      "Deacon Jonah": "It’s like lending your lawnmower to a neighbor without expecting anything back.",
+      "Sister Phoebe": "Think of treating the coworker who annoys you with the same patience you want when you mess up."
+    }
+  },
+  {
+    "text": "The Lord is my light and my salvation—whom shall I fear?",
+    "reference": "Psalm 27:1",
+    "category": "Courage",
+    "tags": ["fear", "courage"],
+    "interpretations": {
+      "Pastor Gideon": "Like carrying a flashlight in a dark forest, God’s presence removes fear and gives courage.",
+      "Brother Silas": "Think of walking into an intimidating meeting knowing the CEO is rooting for you — that’s God’s backing."
+    }
+  },
+  {
+    "text": "Cast all your anxiety on Him because He cares for you.",
+    "reference": "1 Peter 5:7",
+    "category": "Anxiety",
+    "tags": ["worry", "care"],
+    "interpretations": {
+      "Sister Abigail": "Like unloading groceries onto a friend’s counter when your arms are full; God invites us to hand Him our stress.",
+      "Pastor Levi": "This is like venting to a trusted friend who listens and helps — God takes it further by giving peace."
+    }
+  },
+  {
+    "text": "In all your ways acknowledge Him, and He will make your paths straight.",
+    "reference": "Proverbs 3:6",
+    "category": "Direction",
+    "tags": ["guidance", "faith"],
+    "interpretations": {
+      "Pastor Malachi": "Like checking your GPS before a trip, acknowledging God keeps you from getting spiritually lost.",
+      "Brother Josiah": "This is like following a personal trainer’s plan instead of guessing at the gym — God’s direction works."
+    }
+  },
+  {
+    "text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
     "reference": "Matthew 7:7",
     "category": "Prayer",
-    "tags": [
-      "prayer",
-      "faith",
-      "persistence"
-    ],
-    "synonyms": [
-      "ask",
-      "petition",
-      "request",
-      "seek",
-      "pursue",
-      "search",
-      "knock",
-      "entry",
-      "door",
-      "access"
-    ],
-    "antonyms": [
-      "ignore",
-      "neglect",
-      "doubt",
-      "resign",
-      "give up"
-    ],
+    "tags": ["prayer", "faith"],
     "interpretations": {
-      "Devil": "Why ask? God’s silent. You’ll just be disappointed.",
-      "Flesh": "Ask only for what benefits you — quit if it takes effort.",
-      "Angel": "Ask humbly, seek patiently, knock faithfully — God hears you.",
-      "Spirit": "Prayer aligns your heart with God’s will; persistence shapes your soul to receive."
+      "Sister Deborah": "Think of applying for a job — you ask, seek, and doors open. God’s system works the same way spiritually.",
+      "Pastor Ezra": "This is like texting a friend for help and knowing they’ll respond — God responds even more reliably."
     }
   },
   {
-    "reference": "1 Corinthians 6:18–20",
-    "category": "Purity",
-    "tags": [
-      "holiness",
-      "body",
-      "temple",
-      "sexuality",
-      "worship"
-    ],
-    "synonyms": [
-      "sex",
-      "purity",
-      "fidelity",
-      "self-control",
-      "honor",
-      "intimacy",
-      "temple",
-      "glorify",
-      "sanctify",
-      "consecrate"
-    ],
-    "antonyms": [
-      "lust",
-      "defile",
-      "betray",
-      "exploit",
-      "shame"
-    ],
-    "interpretations": {
-      "Devil": "Your desires define you. If it feels good, it must be right.",
-      "Flesh": "Your body is yours to use; spirituality can wait until later.",
-      "Angel": "You were bought with a price—your body is holy, meant for honor and faithful intimacy.",
-      "Spirit": "True freedom is consecrated desire: flee what defiles, and worship God with your body and choices."
-    }
-  },
-  {
-    "reference": "Hebrews 13:4",
-    "category": "Marriage",
-    "tags": [
-      "faithfulness",
-      "honor",
-      "covenant",
-      "sexuality",
-      "integrity"
-    ],
-    "synonyms": [
-      "sex",
-      "marriage",
-      "honor",
-      "commitment",
-      "covenant",
-      "trust",
-      "fidelity",
-      "sanctity",
-      "union",
-      "vow"
-    ],
-    "antonyms": [
-      "adultery",
-      "deceit",
-      "betrayal",
-      "defilement",
-      "contempt"
-    ],
-    "interpretations": {
-      "Devil": "Commitment traps you; passion is better without boundaries.",
-      "Flesh": "As long as no one knows, it doesn’t matter.",
-      "Angel": "Honor the marriage covenant—faithful love protects both heart and home.",
-      "Spirit": "Covenant intimacy reflects God’s faithfulness; guard it and you’ll flourish in trust and joy."
-    }
-  },
-  {
-    "reference": "1 Thessalonians 4:3–5",
-    "category": "Holiness",
-    "tags": [
-      "sanctification",
-      "self-control",
-      "calling",
-      "purity",
-      "discipline"
-    ],
-    "synonyms": [
-      "sex",
-      "sanctify",
-      "self-control",
-      "holy",
-      "discipline",
-      "honor",
-      "reverence",
-      "cleanse",
-      "set apart",
-      "obedience"
-    ],
-    "antonyms": [
-      "passion-run-wild",
-      "impurity",
-      "dishonor",
-      "indulgence",
-      "rebellion"
-    ],
-    "interpretations": {
-      "Devil": "Holiness is repression—indulge now and repent later.",
-      "Flesh": "Everyone does it; why should you be different?",
-      "Angel": "God’s will is your sanctification—learn the art of self-control in honor.",
-      "Spirit": "Desire, submitted to God, becomes power for love rather than fuel for bondage."
-    }
-  },
-  {
-    "reference": "Genesis 2:24",
-    "category": "Union",
-    "tags": [
-      "one flesh",
-      "leaving and cleaving",
-      "covenant",
-      "design",
-      "intimacy"
-    ],
-    "synonyms": [
-      "sex",
-      "union",
-      "covenant",
-      "cling",
-      "one flesh",
-      "belong",
-      "bond",
-      "companionship",
-      "partnership",
-      "build"
-    ],
-    "antonyms": [
-      "isolation",
-      "division",
-      "abandon",
-      "use",
-      "fracture"
-    ],
-    "interpretations": {
-      "Devil": "You’ll be safer staying unbound; intimacy only risks loss.",
-      "Flesh": "Take the benefits of closeness without the cost of covenant.",
-      "Angel": "God designed covenant union for security, growth, and joy.",
-      "Spirit": "Leaving, cleaving, and becoming one flesh forms a sacred partnership that matures love and purpose."
-    }
-  },
-  {
-    "reference": "Proverbs 5:15–18",
-    "category": "Faithfulness",
-    "tags": [
-      "contentment",
-      "delight",
-      "marriage",
-      "wisdom",
-      "guardrails"
-    ],
-    "synonyms": [
-      "sex",
-      "faithful",
-      "delight",
-      "satisfaction",
-      "guard",
-      "wisdom",
-      "cherish",
-      "rejoice",
-      "devotion",
-      "content"
-    ],
-    "antonyms": [
-      "infidelity",
-      "wandering",
-      "covet",
-      "drain",
-      "folly"
-    ],
-    "interpretations": {
-      "Devil": "Forbidden waters are sweeter—sample widely.",
-      "Flesh": "If bored, look elsewhere for excitement.",
-      "Angel": "Drink from your own well—find delight in faithful love.",
-      "Spirit": "Devoted desire deepens joy; faithfulness turns intimacy into lifelong blessing and strength."
-    }
-  },
-  {
-    "reference": "Deuteronomy 30:15",
-    "category": "Choice",
-    "tags": [
-      "life",
-      "death",
-      "blessing",
-      "choice",
-      "obedience"
-    ],
-    "synonyms": [
-      "choose",
-      "decide",
-      "path",
-      "blessing",
-      "curse",
-      "life",
-      "death"
-    ],
-    "antonyms": [
-      "indecision",
-      "apathy",
-      "rebellion"
-    ],
-    "interpretations": {
-      "Devil": "It’s all stacked against you—choice is an illusion, so why try?",
-      "Flesh": "Pick whatever benefits you now; long-term consequences can wait.",
-      "Angel": "God is placing life before you—choose the way that leads to blessing.",
-      "Spirit": "Set your heart toward obedience; choosing life means aligning your steps with God today."
-    }
-  },
-  {
-    "reference": "2 Timothy 1:7",
-    "category": "Courage",
-    "tags": [
-      "fearless",
-      "love",
-      "self-discipline",
-      "calling",
-      "boldness"
-    ],
-    "synonyms": [
-      "empower",
-      "embolden",
-      "strengthen",
-      "steady",
-      "clarify",
-      "sound mind",
-      "fortify",
-      "assure",
-      "commission",
-      "equip"
-    ],
-    "antonyms": [
-      "fear",
-      "timidity",
-      "confusion",
-      "paralysis",
-      "cowardice"
-    ],
-    "interpretations": {
-      "Devil": "You don’t have what it takes—stay small and silent.",
-      "Flesh": "Project confidence to control outcomes and people.",
-      "Angel": "God gives power, love, and a sound mind—step forward.",
-      "Spirit": "Holy courage expresses itself as love-directed power and disciplined action that serves God’s call."
-    }
-  },
-  {
-    "reference": "Acts 1:8",
-    "category": "Power",
-    "tags": [
-      "witness",
-      "Holy Spirit",
-      "mission",
-      "boldness",
-      "reach"
-    ],
-    "synonyms": [
-      "empower",
-      "anoint",
-      "commission",
-      "send",
-      "witness",
-      "strengthen",
-      "energize",
-      "ignite",
-      "propel",
-      "authorize"
-    ],
-    "antonyms": [
-      "powerless",
-      "mute",
-      "retreat",
-      "apathy",
-      "hesitate"
-    ],
-    "interpretations": {
-      "Devil": "Your story won’t matter—keep it to yourself.",
-      "Flesh": "Use spiritual power to gain status and followers.",
-      "Angel": "The Spirit empowers you to bear true witness where you are and beyond.",
-      "Spirit": "God’s power turns ordinary life into a mission—live sent, speak true, love wide."
-    }
-  },
-  {
-    "reference": "Ephesians 3:20",
-    "category": "Hope",
-    "tags": [
-      "abundance",
-      "promise",
-      "faith",
-      "imagination",
-      "prayer"
-    ],
-    "synonyms": [
-      "empower",
-      "exceed",
-      "abound",
-      "overflow",
-      "strengthen",
-      "supply",
-      "amplify",
-      "accomplish",
-      "work within",
-      "fulfill"
-    ],
-    "antonyms": [
-      "limit",
-      "scarcity",
-      "doubt",
-      "settle",
-      "resign"
-    ],
-    "interpretations": {
-      "Devil": "Expect little so you’re never disappointed.",
-      "Flesh": "Claim abundance to inflate your agenda.",
-      "Angel": "God can do beyond what you ask or imagine, by His power at work in you.",
-      "Spirit": "Hope expands as you surrender; divine power shapes outcomes you couldn’t design alone."
-    }
-  },
-  {
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles.",
     "reference": "Isaiah 40:31",
-    "category": "Strength",
-    "tags": [
-      "waiting",
-      "renewal",
-      "endurance",
-      "soar",
-      "perseverance"
-    ],
-    "synonyms": [
-      "empower",
-      "renew",
-      "sustain",
-      "uplift",
-      "endure",
-      "revive",
-      "strengthen",
-      "carry",
-      "stabilize",
-      "persevere"
-    ],
-    "antonyms": [
-      "weary",
-      "faint",
-      "collapse",
-      "give up",
-      "drain"
-    ],
+    "category": "Hope",
+    "tags": ["hope", "strength"],
     "interpretations": {
-      "Devil": "Waiting wastes time—push harder or quit.",
-      "Flesh": "Rely on adrenaline and image to keep going.",
-      "Angel": "Those who wait on the Lord find fresh strength to run and not grow weary.",
-      "Spirit": "Surrendered waiting is catalytic—God empowers endurance that outlasts cycles of hype and burnout."
+      "Brother Nathan": "Like getting a full night’s sleep after exhaustion, God gives fresh energy for the next day.",
+      "Sister Miriam": "This is like plugging in your phone when it’s dying; God renews your soul’s battery."
     }
   },
   {
-    "reference": "Zechariah 4:6",
-    "category": "Dependence",
-    "tags": [
-      "Spirit",
-      "work",
-      "grace",
-      "victory",
-      "humility"
-    ],
-    "synonyms": [
-      "empower",
-      "enable",
-      "anoint",
-      "supply",
-      "fuel",
-      "guide",
-      "carry",
-      "uphold",
-      "complete",
-      "build"
-    ],
-    "antonyms": [
-      "strive",
-      "boast",
-      "force",
-      "exhaust",
-      "fail"
-    ],
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "reference": "Psalm 119:105",
+    "category": "Guidance",
+    "tags": ["guidance", "truth"],
     "interpretations": {
-      "Devil": "If you don’t force it, it will never happen.",
-      "Flesh": "Muscle your way through so you get the credit.",
-      "Angel": "Not by might or power, but by God’s Spirit the work is accomplished.",
-      "Spirit": "Grace-driven effort finishes what self-effort cannot—yield to the Spirit and build without burnout."
+      "Pastor Joel": "Like walking with a flashlight in darkness, God’s Word helps you avoid spiritual potholes.",
+      "Sister Leah": "Think of how Google Maps saves you from wrong turns — the Bible keeps your life aligned."
     }
   },
   {
-    "reference": "1 Timothy 6:10",
-    "category": "Wealth",
-    "tags": [
-      "currency",
-      "money",
-      "greed",
-      "desire",
-      "root"
-    ],
-    "synonyms": [
-      "money",
-      "wealth",
-      "riches",
-      "currency",
-      "gain",
-      "profit",
-      "treasure",
-      "gold",
-      "silver",
-      "assets"
-    ],
-    "antonyms": [
-      "contentment",
-      "poverty",
-      "generosity",
-      "simplicity",
-      "detachment"
-    ],
+    "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
+    "reference": "Matthew 6:34",
+    "category": "Peace",
+    "tags": ["worry", "peace"],
     "interpretations": {
-      "Devil": "Money is the only true power—worship it.",
-      "Flesh": "Get enough wealth and you’ll finally be secure.",
-      "Angel": "Love of money destroys—guard your heart.",
-      "Spirit": "Use resources as tools, not masters; invest in eternal treasure."
+      "Brother Simon": "Like setting aside your phone at night, trusting you’ll handle messages tomorrow.",
+      "Pastor Lydia": "This is like budgeting one day at a time; you focus on what you can handle now, not tomorrow’s unknowns."
     }
   },
   {
-    "reference": "Matthew 6:24",
-    "category": "Loyalty",
-    "tags": [
-      "currency",
-      "money",
-      "loyalty",
-      "God",
-      "master"
-    ],
-    "synonyms": [
-      "money",
-      "mammon",
-      "wealth",
-      "possession",
-      "riches",
-      "treasure",
-      "abundance",
-      "earnings",
-      "fortune",
-      "capital"
-    ],
-    "antonyms": [
-      "God",
-      "faith",
-      "trust",
-      "spirituality",
-      "devotion"
-    ],
+    "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
+    "reference": "Philippians 4:4",
+    "category": "Joy",
+    "tags": ["joy", "praise"],
     "interpretations": {
-      "Devil": "Serve wealth—it will reward you best.",
-      "Flesh": "Split loyalties—God and gold can coexist.",
-      "Angel": "You cannot serve both God and money—choose wisely.",
-      "Spirit": "Freedom comes by serving God; money becomes servant, not master."
+      "Sister Priscilla": "Like celebrating a small win even when the week was tough, joy isn’t tied to circumstances.",
+      "Pastor Elias": "Think of singing in the shower after a bad day — joy in the Lord resets your perspective."
     }
   },
   {
-    "reference": "Proverbs 11:28",
-    "category": "Security",
-    "tags": [
-      "currency",
-      "money",
-      "trust",
-      "fall",
-      "flourish"
-    ],
-    "synonyms": [
-      "money",
-      "wealth",
-      "prosperity",
-      "affluence",
-      "security",
-      "fortune",
-      "success",
-      "riches",
-      "gain",
-      "treasure"
-    ],
-    "antonyms": [
-      "poverty",
-      "need",
-      "loss",
-      "emptiness",
-      "futility"
-    ],
+    "text": "We love because He first loved us.",
+    "reference": "1 John 4:19",
+    "category": "Love",
+    "tags": ["love", "faith"],
     "interpretations": {
-      "Devil": "Wealth will never fail—cling to it.",
-      "Flesh": "Trust your bank account; it’s your safety net.",
-      "Angel": "Those who trust riches will fall; righteousness flourishes.",
-      "Spirit": "Anchor hope in God—security grows beyond possessions."
+      "Brother Stephen": "Like paying forward a stranger buying you coffee — God loved us first so we can love others.",
+      "Sister Ruth": "Think of being shown kindness and naturally passing it along — that’s God’s cycle of love."
     }
   },
   {
-    "reference": "Ecclesiastes 5:10",
-    "category": "Desire",
-    "tags": [
-      "currency",
-      "money",
-      "desire",
-      "insatiable",
-      "wealth"
-    ],
-    "synonyms": [
-      "money",
-      "wealth",
-      "gain",
-      "treasure",
-      "profit",
-      "abundance",
-      "assets",
-      "greed",
-      "possession",
-      "accumulation"
-    ],
-    "antonyms": [
-      "contentment",
-      "satisfaction",
-      "gratitude",
-      "peace",
-      "rest"
-    ],
+    "text": "Blessed are the peacemakers, for they will be called children of God.",
+    "reference": "Matthew 5:9",
+    "category": "Peace",
+    "tags": ["peace", "forgiveness"],
     "interpretations": {
-      "Devil": "The more you have, the happier you’ll be—keep chasing.",
-      "Flesh": "Enough is never enough; one more dollar will satisfy.",
-      "Angel": "Love of money never satisfies—it multiplies craving.",
-      "Spirit": "Only God fulfills the restless heart; possessions are temporary."
+      "Pastor Jonah": "Like mediating between two arguing friends — those who bring peace reflect God’s nature.",
+      "Brother Caleb": "Think of choosing to let go of a grudge at work; you become a channel of God’s peace."
     }
   },
   {
-    "reference": "Luke 12:15",
-    "category": "Guard",
-    "tags": [
-      "currency",
-      "money",
-      "greed",
-      "life",
-      "abundance"
-    ],
-    "synonyms": [
-      "money",
-      "wealth",
-      "possessions",
-      "riches",
-      "currency",
-      "treasure",
-      "abundance",
-      "gain",
-      "greed",
-      "fortune"
-    ],
-    "antonyms": [
-      "contentment",
-      "simplicity",
-      "life",
-      "peace",
-      "humility"
-    ],
+    "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "reference": "Philippians 4:6",
+    "category": "Prayer",
+    "tags": ["prayer", "anxiety"],
     "interpretations": {
-      "Devil": "Life equals possessions—the richer, the better.",
-      "Flesh": "More abundance proves success and worth.",
-      "Angel": "Life isn’t measured by possessions—beware greed.",
-      "Spirit": "Real abundance is found in God, not in storage barns."
+      "Sister Esther": "Like calling a friend when stressed and feeling lighter, prayer is handing anxiety to God.",
+      "Pastor Daniel": "This is like filing taxes on time — stressful but necessary; prayer keeps life in order with peace."
     }
   },
   {
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
     "reference": "Psalm 34:18",
     "category": "Comfort",
-    "tags": [
-      "sadness",
-      "brokenhearted",
-      "grief",
-      "healing",
-      "presence"
-    ],
-    "synonyms": [
-      "sadness",
-      "sorrow",
-      "broken",
-      "weep",
-      "grief",
-      "lament",
-      "despair",
-      "tears",
-      "hurt",
-      "mourn"
-    ],
-    "antonyms": [
-      "joy",
-      "gladness",
-      "cheer",
-      "hope",
-      "delight"
-    ],
+    "tags": ["comfort", "grief"],
     "interpretations": {
-      "Devil": "Your sadness proves God abandoned you.",
-      "Flesh": "Drown your sorrow in distractions or denial.",
-      "Angel": "God is near the brokenhearted—He heals the crushed spirit.",
-      "Spirit": "Sadness is the soil where God’s presence grows most tenderly."
-    }
-  },
-  {
-    "reference": "John 11:35",
-    "category": "Compassion",
-    "tags": [
-      "sadness",
-      "tears",
-      "loss",
-      "love",
-      "empathy"
-    ],
-    "synonyms": [
-      "sadness",
-      "tears",
-      "weep",
-      "mourn",
-      "sorrow",
-      "lament",
-      "hurt",
-      "grief",
-      "cry",
-      "pain"
-    ],
-    "antonyms": [
-      "smile",
-      "cheer",
-      "joy",
-      "celebration",
-      "rejoice"
-    ],
-    "interpretations": {
-      "Devil": "Even Jesus cried—so why believe in His power?",
-      "Flesh": "Tears equal weakness—avoid them.",
-      "Angel": "Jesus wept—God shares in human sadness.",
-      "Spirit": "Christ’s tears dignify yours—He redeems sorrow with hope."
-    }
-  },
-  {
-    "reference": "Ecclesiastes 3:4",
-    "category": "Seasons",
-    "tags": [
-      "sadness",
-      "weep",
-      "time",
-      "seasons",
-      "joy"
-    ],
-    "synonyms": [
-      "sadness",
-      "grief",
-      "weep",
-      "lament",
-      "sorrow",
-      "mourning",
-      "cry",
-      "loss",
-      "hurt",
-      "despair"
-    ],
-    "antonyms": [
-      "joy",
-      "dance",
-      "laugh",
-      "celebrate",
-      "gladness"
-    ],
-    "interpretations": {
-      "Devil": "Sorrow will never end—this is forever.",
-      "Flesh": "Skip mourning; rush back to laughter.",
-      "Angel": "There is a time to weep and a time to laugh.",
-      "Spirit": "Embrace sadness as part of life’s rhythm; God weaves both into growth."
-    }
-  },
-  {
-    "reference": "Matthew 5:4",
-    "category": "Blessing",
-    "tags": [
-      "sadness",
-      "mourn",
-      "comfort",
-      "hope",
-      "beatitude"
-    ],
-    "synonyms": [
-      "sadness",
-      "mourning",
-      "lament",
-      "weep",
-      "cry",
-      "sorrow",
-      "hurt",
-      "pain",
-      "loss",
-      "grief"
-    ],
-    "antonyms": [
-      "comfort",
-      "joy",
-      "peace",
-      "delight",
-      "smile"
-    ],
-    "interpretations": {
-      "Devil": "Your mourning proves God cursed you.",
-      "Flesh": "Avoid mourning—it drags you down.",
-      "Angel": "Blessed are those who mourn, for they will be comforted.",
-      "Spirit": "Sadness invites God’s comfort; brokenness becomes blessing."
-    }
-  },
-  {
-    "reference": "Isaiah 53:3",
-    "category": "Suffering",
-    "tags": [
-      "sadness",
-      "grief",
-      "man of sorrows",
-      "pain",
-      "rejection"
-    ],
-    "synonyms": [
-      "sadness",
-      "sorrow",
-      "grief",
-      "pain",
-      "lament",
-      "loss",
-      "hurt",
-      "anguish",
-      "despair",
-      "rejection"
-    ],
-    "antonyms": [
-      "joy",
-      "acceptance",
-      "celebration",
-      "delight",
-      "gladness"
-    ],
-    "interpretations": {
-      "Devil": "Even your Savior was crushed—hope is pointless.",
-      "Flesh": "Avoid sorrow at all costs; numb it.",
-      "Angel": "Christ bore sorrows and grief—He identifies with your sadness.",
-      "Spirit": "Your sadness is seen by the Man of Sorrows who redeems it."
-    }
-  },
-  {
-    "reference": "Romans 8:18",
-    "category": "Hope",
-    "tags": [
-      "pain",
-      "suffering",
-      "glory",
-      "endurance",
-      "future"
-    ],
-    "synonyms": [
-      "pain",
-      "suffering",
-      "hurt",
-      "ache",
-      "trial",
-      "burden",
-      "affliction",
-      "struggle",
-      "torment",
-      "grief"
-    ],
-    "antonyms": [
-      "relief",
-      "comfort",
-      "ease",
-      "joy",
-      "peace"
-    ],
-    "interpretations": {
-      "Devil": "Pain proves God is cruel.",
-      "Flesh": "Suffer in silence—no one cares.",
-      "Angel": "Present pain pales compared to future glory.",
-      "Spirit": "Pain is temporary; glory eternal. Endure with hope."
-    }
-  },
-  {
-    "reference": "2 Corinthians 12:9",
-    "category": "Grace",
-    "tags": [
-      "pain",
-      "weakness",
-      "grace",
-      "strength",
-      "sufficiency"
-    ],
-    "synonyms": [
-      "pain",
-      "weakness",
-      "hurt",
-      "suffering",
-      "struggle",
-      "affliction",
-      "anguish",
-      "trial",
-      "grief",
-      "ache"
-    ],
-    "antonyms": [
-      "strength",
-      "ease",
-      "relief",
-      "comfort",
-      "joy"
-    ],
-    "interpretations": {
-      "Devil": "Your pain proves God abandoned you.",
-      "Flesh": "Hide weakness; appear strong.",
-      "Angel": "God’s grace is sufficient—His power shines in weakness.",
-      "Spirit": "Pain becomes the stage for grace; weakness is power inverted."
-    }
-  },
-  {
-    "reference": "James 1:2–3",
-    "category": "Trials",
-    "tags": [
-      "pain",
-      "testing",
-      "joy",
-      "faith",
-      "endurance"
-    ],
-    "synonyms": [
-      "pain",
-      "trial",
-      "testing",
-      "hardship",
-      "struggle",
-      "burden",
-      "suffering",
-      "hurt",
-      "grief",
-      "tribulation"
-    ],
-    "antonyms": [
-      "ease",
-      "comfort",
-      "pleasure",
-      "peace",
-      "rest"
-    ],
-    "interpretations": {
-      "Devil": "Trials crush—quit before they break you.",
-      "Flesh": "Pain is pointless—avoid it.",
-      "Angel": "Trials test faith and grow endurance.",
-      "Spirit": "Pain matures faith; trials refine joy and hope."
-    }
-  },
-  {
-    "reference": "Psalm 147:3",
-    "category": "Healing",
-    "tags": [
-      "pain",
-      "healing",
-      "brokenhearted",
-      "wounds",
-      "comfort"
-    ],
-    "synonyms": [
-      "pain",
-      "hurt",
-      "sorrow",
-      "suffering",
-      "ache",
-      "brokenness",
-      "grief",
-      "wounds",
-      "anguish",
-      "tears"
-    ],
-    "antonyms": [
-      "healing",
-      "comfort",
-      "joy",
-      "peace",
-      "strength"
-    ],
-    "interpretations": {
-      "Devil": "Your wounds never heal.",
-      "Flesh": "Numb pain—it’s easier than facing it.",
-      "Angel": "God heals the brokenhearted and binds wounds.",
-      "Spirit": "Pain isn’t permanent; divine healing restores soul and body."
-    }
-  },
-  {
-    "reference": "1 Peter 5:10",
-    "category": "Restoration",
-    "tags": [
-      "pain",
-      "suffering",
-      "restoration",
-      "strength",
-      "hope"
-    ],
-    "synonyms": [
-      "pain",
-      "suffering",
-      "hurt",
-      "trial",
-      "grief",
-      "affliction",
-      "burden",
-      "struggle",
-      "loss",
-      "anguish"
-    ],
-    "antonyms": [
-      "restoration",
-      "peace",
-      "comfort",
-      "ease",
-      "joy"
-    ],
-    "interpretations": {
-      "Devil": "Suffering never ends.",
-      "Flesh": "Endure bitterly—there’s no meaning.",
-      "Angel": "After suffering, God restores, strengthens, and establishes you.",
-      "Spirit": "Pain births restoration; suffering prepares for eternal strength."
-    }
-  },
-  {
-    "reference": "Exodus 7:10",
-    "category": "Miracle",
-    "tags": [
-      "magic",
-      "signs",
-      "power",
-      "wonder",
-      "Pharaoh"
-    ],
-    "synonyms": [
-      "magic",
-      "wonder",
-      "miracle",
-      "sign",
-      "power",
-      "sorcery",
-      "awe",
-      "mystery",
-      "enchantment",
-      "supernatural"
-    ],
-    "antonyms": [
-      "ordinary",
-      "natural",
-      "mundane",
-      "common",
-      "fraud"
-    ],
-    "interpretations": {
-      "Devil": "Power is for show—control others with it.",
-      "Flesh": "Use signs to impress and gain influence.",
-      "Angel": "God’s wonders prove His authority over false magic.",
-      "Spirit": "True power magnifies God, not man—it liberates, not enslaves."
-    }
-  },
-  {
-    "reference": "Daniel 2:27–28",
-    "category": "Revelation",
-    "tags": [
-      "magic",
-      "mystery",
-      "interpretation",
-      "wisdom",
-      "dreams"
-    ],
-    "synonyms": [
-      "magic",
-      "mystery",
-      "dreams",
-      "vision",
-      "interpretation",
-      "wonder",
-      "supernatural",
-      "prophecy",
-      "revelation",
-      "hidden"
-    ],
-    "antonyms": [
-      "ignorance",
-      "confusion",
-      "common",
-      "fraud",
-      "darkness"
-    ],
-    "interpretations": {
-      "Devil": "Mysteries belong to you—claim the glory.",
-      "Flesh": "Mystical secrets bring fame—hoard them.",
-      "Angel": "No magician reveals mysteries; God in heaven does.",
-      "Spirit": "True revelation belongs to God—His light unlocks mysteries."
-    }
-  },
-  {
-    "reference": "Acts 8:9–10",
-    "category": "Deception",
-    "tags": [
-      "magic",
-      "sorcery",
-      "deception",
-      "fame",
-      "power"
-    ],
-    "synonyms": [
-      "magic",
-      "sorcery",
-      "bewitch",
-      "enchant",
-      "deceive",
-      "mystify",
-      "manipulate",
-      "control",
-      "illusion",
-      "trick"
-    ],
-    "antonyms": [
-      "truth",
-      "honesty",
-      "light",
-      "clarity",
-      "freedom"
-    ],
-    "interpretations": {
-      "Devil": "Use enchantment to exalt yourself.",
-      "Flesh": "Leverage tricks to gain followers.",
-      "Angel": "Simon amazed many with sorcery, but it was false power.",
-      "Spirit": "Magic that manipulates corrupts; Spirit power frees and reveals truth."
-    }
-  },
-  {
-    "reference": "Matthew 2:1–2",
-    "category": "Guidance",
-    "tags": [
-      "magic",
-      "star",
-      "magi",
-      "signs",
-      "seek"
-    ],
-    "synonyms": [
-      "magic",
-      "mystic",
-      "star",
-      "sign",
-      "wonder",
-      "guide",
-      "magi",
-      "prophecy",
-      "mystery",
-      "enchantment"
-    ],
-    "antonyms": [
-      "ignorance",
-      "lost",
-      "confusion",
-      "blindness",
-      "ordinary"
-    ],
-    "interpretations": {
-      "Devil": "The stars control your destiny.",
-      "Flesh": "Use signs to predict and profit.",
-      "Angel": "The magi followed the star to Christ.",
-      "Spirit": "God can even use mystic seekers to guide toward His Son."
-    }
-  },
-  {
-    "reference": "Deuteronomy 18:10–12",
-    "category": "Warning",
-    "tags": [
-      "magic",
-      "sorcery",
-      "divination",
-      "occult",
-      "abomination"
-    ],
-    "synonyms": [
-      "magic",
-      "sorcery",
-      "witchcraft",
-      "divination",
-      "enchantment",
-      "spell",
-      "occult",
-      "mysticism",
-      "dark arts",
-      "necromancy"
-    ],
-    "antonyms": [
-      "truth",
-      "obedience",
-      "light",
-      "holiness",
-      "clarity"
-    ],
-    "interpretations": {
-      "Devil": "Hidden arts give you real power—pursue them.",
-      "Flesh": "Use sorcery as a shortcut to answers.",
-      "Angel": "God detests divination and sorcery—avoid them.",
-      "Spirit": "Reject dark magic; God’s Spirit provides wisdom and power."
-    }
-  },
-  {
-    "reference": "Joshua 24:15",
-    "category": "Family",
-    "tags": [
-      "family",
-      "household",
-      "choice",
-      "serve",
-      "Lord"
-    ],
-    "synonyms": [
-      "family",
-      "household",
-      "children",
-      "spouse",
-      "clan",
-      "tribe",
-      "relatives",
-      "home",
-      "kin",
-      "lineage"
-    ],
-    "antonyms": [
-      "isolation",
-      "abandonment",
-      "division",
-      "estrangement",
-      "loneliness"
-    ],
-    "interpretations": {
-      "Devil": "Your home is divided—it will never heal.",
-      "Flesh": "Serve convenience, not covenant.",
-      "Angel": "As for me and my house, we will serve the Lord.",
-      "Spirit": "Family flourishes when united under God’s purpose."
-    }
-  },
-  {
-    "reference": "Ephesians 6:1–2",
-    "category": "Honor",
-    "tags": [
-      "family",
-      "children",
-      "parents",
-      "obedience",
-      "honor"
-    ],
-    "synonyms": [
-      "family",
-      "parents",
-      "children",
-      "household",
-      "kin",
-      "generation",
-      "home",
-      "offspring",
-      "heritage",
-      "legacy"
-    ],
-    "antonyms": [
-      "dishonor",
-      "rebellion",
-      "abandonment",
-      "neglect",
-      "estrangement"
-    ],
-    "interpretations": {
-      "Devil": "Parents are burdens—discard them.",
-      "Flesh": "Honor only when it benefits you.",
-      "Angel": "Children, obey and honor your parents—it brings blessing.",
-      "Spirit": "Honor within family reflects God’s design for harmony and blessing."
-    }
-  },
-  {
-    "reference": "Colossians 3:13",
-    "category": "Forgiveness",
-    "tags": [
-      "family",
-      "forgive",
-      "unity",
-      "peace",
-      "relationship"
-    ],
-    "synonyms": [
-      "family",
-      "forgive",
-      "unity",
-      "peace",
-      "love",
-      "reconcile",
-      "patience",
-      "compassion",
-      "together",
-      "bond"
-    ],
-    "antonyms": [
-      "resentment",
-      "division",
-      "anger",
-      "estrangement",
-      "grudge"
-    ],
-    "interpretations": {
-      "Devil": "Hold grudges—family wounds never heal.",
-      "Flesh": "Forgive only if it’s deserved.",
-      "Angel": "Forgive as the Lord forgave you.",
-      "Spirit": "Forgiveness sustains family unity; grace binds hearts together."
-    }
-  },
-  {
-    "reference": "Psalm 127:3–5",
-    "category": "Heritage",
-    "tags": [
-      "family",
-      "children",
-      "heritage",
-      "blessing",
-      "gift"
-    ],
-    "synonyms": [
-      "family",
-      "children",
-      "offspring",
-      "heritage",
-      "blessing",
-      "gift",
-      "legacy",
-      "generation",
-      "fruit",
-      "descendants"
-    ],
-    "antonyms": [
-      "barrenness",
-      "loss",
-      "curse",
-      "neglect",
-      "abandon"
-    ],
-    "interpretations": {
-      "Devil": "Children are burdens—avoid them.",
-      "Flesh": "View kids as status or legacy trophies.",
-      "Angel": "Children are a heritage from the Lord—blessing and reward.",
-      "Spirit": "Receive family as divine gift; nurture them with love and faith."
-    }
-  },
-  {
-    "reference": "Proverbs 22:6",
-    "category": "Training",
-    "tags": [
-      "family",
-      "children",
-      "training",
-      "path",
-      "future"
-    ],
-    "synonyms": [
-      "family",
-      "train",
-      "children",
-      "guide",
-      "raise",
-      "teach",
-      "direct",
-      "discipline",
-      "nurture",
-      "instruct"
-    ],
-    "antonyms": [
-      "neglect",
-      "abandon",
-      "misguide",
-      "ignore",
-      "estrange"
-    ],
-    "interpretations": {
-      "Devil": "Guidance won’t matter—they’ll stray anyway.",
-      "Flesh": "Let kids find their own way without input.",
-      "Angel": "Train children in the way they should go.",
-      "Spirit": "Discipleship within family plants seeds for lifelong faith."
-    }
-  },
-  {
-    "reference": "Genesis 4:19",
-    "category": "Warning",
-    "tags": [
-      "polygamy",
-      "marriage",
-      "sin",
-      "rebellion",
-      "example"
-    ],
-    "synonyms": [
-      "polygamy",
-      "wives",
-      "multiple",
-      "union",
-      "custom",
-      "concubine",
-      "arrangement",
-      "plural",
-      "marriage",
-      "practice"
-    ],
-    "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "covenant",
-      "singularity",
-      "purity"
-    ],
-    "interpretations": {
-      "Devil": "Take as many partners as you want—power is in numbers.",
-      "Flesh": "Follow cultural customs over God’s design.",
-      "Angel": "Lamech took two wives—a departure from God’s plan.",
-      "Spirit": "Polygamy reflects brokenness; God’s design is one flesh in unity."
-    }
-  },
-  {
-    "reference": "Deuteronomy 17:17",
-    "category": "Kingship",
-    "tags": [
-      "polygamy",
-      "wives",
-      "wealth",
-      "warning",
-      "heart"
-    ],
-    "synonyms": [
-      "polygamy",
-      "wives",
-      "multiply",
-      "marriage",
-      "union",
-      "concubine",
-      "custom",
-      "practice",
-      "excess",
-      "lust"
-    ],
-    "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "covenant",
-      "purity",
-      "simplicity"
-    ],
-    "interpretations": {
-      "Devil": "A king’s strength is in many wives.",
-      "Flesh": "Polygamy proves success and dominance.",
-      "Angel": "God warned kings not to multiply wives—it turns hearts away.",
-      "Spirit": "Guard your heart—faithful devotion protects from divided love."
-    }
-  },
-  {
-    "reference": "2 Samuel 5:13",
-    "category": "History",
-    "tags": [
-      "polygamy",
-      "David",
-      "wives",
-      "concubines",
-      "custom"
-    ],
-    "synonyms": [
-      "polygamy",
-      "wives",
-      "concubines",
-      "custom",
-      "union",
-      "arrangement",
-      "practice",
-      "plural",
-      "marriage",
-      "culture"
-    ],
-    "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "covenant",
-      "singular",
-      "purity"
-    ],
-    "interpretations": {
-      "Devil": "Even God’s chosen had many wives—it must be fine.",
-      "Flesh": "Follow examples of leaders, not God’s commands.",
-      "Angel": "David took more wives—Scripture records, not endorses.",
-      "Spirit": "Even heroes reveal flaws—God’s design remains covenant faithfulness."
-    }
-  },
-  {
-    "reference": "1 Kings 11:3",
-    "category": "Compromise",
-    "tags": [
-      "polygamy",
-      "wives",
-      "idolatry",
-      "turning away",
-      "Solomon"
-    ],
-    "synonyms": [
-      "polygamy",
-      "wives",
-      "concubines",
-      "union",
-      "marriage",
-      "plural",
-      "custom",
-      "practice",
-      "alliance",
-      "arrangement"
-    ],
-    "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "covenant",
-      "purity",
-      "loyalty"
-    ],
-    "interpretations": {
-      "Devil": "More wives, more glory.",
-      "Flesh": "Use marriage for alliances and pleasure.",
-      "Angel": "Solomon’s wives turned his heart away from God.",
-      "Spirit": "Polygamy leads to divided worship; loyalty belongs to God alone."
-    }
-  },
-  {
-    "reference": "Malachi 2:15",
-    "category": "Covenant",
-    "tags": [
-      "polygamy",
-      "faithfulness",
-      "marriage",
-      "covenant",
-      "godly offspring"
-    ],
-    "synonyms": [
-      "polygamy",
-      "wives",
-      "marriage",
-      "union",
-      "covenant",
-      "offspring",
-      "heritage",
-      "family",
-      "bond",
-      "commitment"
-    ],
-    "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "purity",
-      "integrity",
-      "truth"
-    ],
-    "interpretations": {
-      "Devil": "Multiple unions ensure stronger legacy.",
-      "Flesh": "Marriage is about personal gain, not God’s glory.",
-      "Angel": "Guard your spirit—be faithful to the wife of your youth.",
-      "Spirit": "True covenant protects love and produces godly offspring."
+      "Brother Levi": "Like a friend sitting silently with you when you’re grieving, God’s closeness is healing.",
+      "Pastor Chloe": "Think of a paramedic rushing to an accident — God draws near when our hearts hurt the most."
     }
   }
 ]
