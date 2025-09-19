@@ -3,7 +3,11 @@
     "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
     "reference": "John 3:16",
     "category": "Love",
-    "tags": ["love", "sacrifice", "salvation"],
+    "tags": [
+      "love",
+      "sacrifice",
+      "salvation"
+    ],
     "interpretations": {
       "Pastor Elijah": "Imagine someone donating a kidney to save a stranger’s life. God went further by giving His Son so we could live forever.",
       "Sister Grace": "This is like a parent working two jobs to give their child a better future. God's love is even greater."
@@ -13,7 +17,10 @@
     "text": "I can do all things through Christ who strengthens me.",
     "reference": "Philippians 4:13",
     "category": "Strength",
-    "tags": ["strength", "faith"],
+    "tags": [
+      "strength",
+      "faith"
+    ],
     "interpretations": {
       "Brother Noah": "Think of facing a tough exam or interview but knowing someone has your back. Christ gives that inner strength daily.",
       "Deacon Ezra": "When life feels like climbing a steep hill, this verse is your reminder you’re not climbing alone."
@@ -23,7 +30,11 @@
     "text": "The Lord is my shepherd; I shall not want.",
     "reference": "Psalm 23:1",
     "category": "Guidance",
-    "tags": ["trust", "guidance", "provision"],
+    "tags": [
+      "trust",
+      "guidance",
+      "provision"
+    ],
     "interpretations": {
       "Pastor Miriam": "Like having GPS in an unknown city, God guides and provides direction so you don’t have to fear being lost.",
       "Brother Elias": "It's like having a steady paycheck when you're worried about bills; God ensures we have what we need."
@@ -33,7 +44,11 @@
     "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
     "reference": "Matthew 11:28",
     "category": "Rest",
-    "tags": ["rest", "comfort", "stress"],
+    "tags": [
+      "rest",
+      "comfort",
+      "stress"
+    ],
     "interpretations": {
       "Sister Naomi": "This is like finally sitting down after carrying groceries up five flights of stairs — that relief is what Jesus offers spiritually.",
       "Pastor Josiah": "When stress builds from work or relationships, this verse reminds us there’s a safe place for our souls."
@@ -43,7 +58,10 @@
     "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
     "reference": "Proverbs 3:5",
     "category": "Trust",
-    "tags": ["trust", "faith"],
+    "tags": [
+      "trust",
+      "faith"
+    ],
     "interpretations": {
       "Pastor Micah": "Like following GPS even when it reroutes through a weird side road; trusting God’s path often doesn’t make sense at first.",
       "Sister Lydia": "It’s like handing over the wheel to someone who knows the road better than you do."
@@ -53,7 +71,10 @@
     "text": "Be still, and know that I am God.",
     "reference": "Psalm 46:10",
     "category": "Peace",
-    "tags": ["peace", "faith"],
+    "tags": [
+      "peace",
+      "faith"
+    ],
     "interpretations": {
       "Brother Caleb": "Think of pausing your notifications for a moment of silence; God invites us to pause and trust His control.",
       "Pastor Rachel": "Like sitting on a porch swing, watching the sunset, letting go of anxiety and trusting God."
@@ -63,7 +84,10 @@
     "text": "Do to others as you would have them do to you.",
     "reference": "Luke 6:31",
     "category": "Kindness",
-    "tags": ["kindness", "respect"],
+    "tags": [
+      "kindness",
+      "respect"
+    ],
     "interpretations": {
       "Sister Hannah": "Like holding the door for someone even when you’re in a rush — simple kindness changes the day.",
       "Brother Daniel": "Imagine being treated kindly in traffic instead of being cut off; we should give that kindness first."
@@ -73,7 +97,10 @@
     "text": "Love your neighbor as yourself.",
     "reference": "Mark 12:31",
     "category": "Love",
-    "tags": ["love", "community"],
+    "tags": [
+      "love",
+      "community"
+    ],
     "interpretations": {
       "Deacon Jonah": "It’s like lending your lawnmower to a neighbor without expecting anything back.",
       "Sister Phoebe": "Think of treating the coworker who annoys you with the same patience you want when you mess up."
@@ -83,7 +110,10 @@
     "text": "The Lord is my light and my salvation—whom shall I fear?",
     "reference": "Psalm 27:1",
     "category": "Courage",
-    "tags": ["fear", "courage"],
+    "tags": [
+      "fear",
+      "courage"
+    ],
     "interpretations": {
       "Pastor Gideon": "Like carrying a flashlight in a dark forest, God’s presence removes fear and gives courage.",
       "Brother Silas": "Think of walking into an intimidating meeting knowing the CEO is rooting for you — that’s God’s backing."
@@ -93,7 +123,10 @@
     "text": "Cast all your anxiety on Him because He cares for you.",
     "reference": "1 Peter 5:7",
     "category": "Anxiety",
-    "tags": ["worry", "care"],
+    "tags": [
+      "worry",
+      "care"
+    ],
     "interpretations": {
       "Sister Abigail": "Like unloading groceries onto a friend’s counter when your arms are full; God invites us to hand Him our stress.",
       "Pastor Levi": "This is like venting to a trusted friend who listens and helps — God takes it further by giving peace."
@@ -103,7 +136,10 @@
     "text": "In all your ways acknowledge Him, and He will make your paths straight.",
     "reference": "Proverbs 3:6",
     "category": "Direction",
-    "tags": ["guidance", "faith"],
+    "tags": [
+      "guidance",
+      "faith"
+    ],
     "interpretations": {
       "Pastor Malachi": "Like checking your GPS before a trip, acknowledging God keeps you from getting spiritually lost.",
       "Brother Josiah": "This is like following a personal trainer’s plan instead of guessing at the gym — God’s direction works."
@@ -113,7 +149,10 @@
     "text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
     "reference": "Matthew 7:7",
     "category": "Prayer",
-    "tags": ["prayer", "faith"],
+    "tags": [
+      "prayer",
+      "faith"
+    ],
     "interpretations": {
       "Sister Deborah": "Think of applying for a job — you ask, seek, and doors open. God’s system works the same way spiritually.",
       "Pastor Ezra": "This is like texting a friend for help and knowing they’ll respond — God responds even more reliably."
@@ -123,7 +162,10 @@
     "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles.",
     "reference": "Isaiah 40:31",
     "category": "Hope",
-    "tags": ["hope", "strength"],
+    "tags": [
+      "hope",
+      "strength"
+    ],
     "interpretations": {
       "Brother Nathan": "Like getting a full night’s sleep after exhaustion, God gives fresh energy for the next day.",
       "Sister Miriam": "This is like plugging in your phone when it’s dying; God renews your soul’s battery."
@@ -133,7 +175,10 @@
     "text": "Your word is a lamp to my feet and a light to my path.",
     "reference": "Psalm 119:105",
     "category": "Guidance",
-    "tags": ["guidance", "truth"],
+    "tags": [
+      "guidance",
+      "truth"
+    ],
     "interpretations": {
       "Pastor Joel": "Like walking with a flashlight in darkness, God’s Word helps you avoid spiritual potholes.",
       "Sister Leah": "Think of how Google Maps saves you from wrong turns — the Bible keeps your life aligned."
@@ -143,7 +188,10 @@
     "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
     "reference": "Matthew 6:34",
     "category": "Peace",
-    "tags": ["worry", "peace"],
+    "tags": [
+      "worry",
+      "peace"
+    ],
     "interpretations": {
       "Brother Simon": "Like setting aside your phone at night, trusting you’ll handle messages tomorrow.",
       "Pastor Lydia": "This is like budgeting one day at a time; you focus on what you can handle now, not tomorrow’s unknowns."
@@ -153,7 +201,10 @@
     "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
     "reference": "Philippians 4:4",
     "category": "Joy",
-    "tags": ["joy", "praise"],
+    "tags": [
+      "joy",
+      "praise"
+    ],
     "interpretations": {
       "Sister Priscilla": "Like celebrating a small win even when the week was tough, joy isn’t tied to circumstances.",
       "Pastor Elias": "Think of singing in the shower after a bad day — joy in the Lord resets your perspective."
@@ -163,7 +214,10 @@
     "text": "We love because He first loved us.",
     "reference": "1 John 4:19",
     "category": "Love",
-    "tags": ["love", "faith"],
+    "tags": [
+      "love",
+      "faith"
+    ],
     "interpretations": {
       "Brother Stephen": "Like paying forward a stranger buying you coffee — God loved us first so we can love others.",
       "Sister Ruth": "Think of being shown kindness and naturally passing it along — that’s God’s cycle of love."
@@ -173,7 +227,10 @@
     "text": "Blessed are the peacemakers, for they will be called children of God.",
     "reference": "Matthew 5:9",
     "category": "Peace",
-    "tags": ["peace", "forgiveness"],
+    "tags": [
+      "peace",
+      "forgiveness"
+    ],
     "interpretations": {
       "Pastor Jonah": "Like mediating between two arguing friends — those who bring peace reflect God’s nature.",
       "Brother Caleb": "Think of choosing to let go of a grudge at work; you become a channel of God’s peace."
@@ -183,7 +240,10 @@
     "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
     "reference": "Philippians 4:6",
     "category": "Prayer",
-    "tags": ["prayer", "anxiety"],
+    "tags": [
+      "prayer",
+      "anxiety"
+    ],
     "interpretations": {
       "Sister Esther": "Like calling a friend when stressed and feeling lighter, prayer is handing anxiety to God.",
       "Pastor Daniel": "This is like filing taxes on time — stressful but necessary; prayer keeps life in order with peace."
@@ -193,10 +253,403 @@
     "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
     "reference": "Psalm 34:18",
     "category": "Comfort",
-    "tags": ["comfort", "grief"],
+    "tags": [
+      "comfort",
+      "grief"
+    ],
     "interpretations": {
       "Brother Levi": "Like a friend sitting silently with you when you’re grieving, God’s closeness is healing.",
       "Pastor Chloe": "Think of a paramedic rushing to an accident — God draws near when our hearts hurt the most."
+    }
+  },
+  {
+    "text": "And we know that in all things God works for the good of those who love him, who are called according to his purpose.",
+    "reference": "Romans 8:28",
+    "category": "Providence",
+    "tags": [
+      "purpose",
+      "providence"
+    ],
+    "interpretations": {
+      "Pastor Samuel": "Like a master chef using even bitter ingredients to make a great meal, God weaves hard things into good.",
+      "Sister Joy": "Think of a collage: scraps and tears become art. God is making beauty with your story too."
+    }
+  },
+  {
+    "text": "'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
+    "reference": "Jeremiah 29:11",
+    "category": "Hope",
+    "tags": [
+      "hope",
+      "future"
+    ],
+    "interpretations": {
+      "Brother Mark": "Like accepting a job offer you can trust, God’s plan includes benefits you can’t yet see.",
+      "Pastor Miriam": "It’s a planted garden; some seeds take time, but the future is already in the soil."
+    }
+  },
+  {
+    "text": "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty.",
+    "reference": "Psalm 91:1",
+    "category": "Protection",
+    "tags": [
+      "protection",
+      "refuge"
+    ],
+    "interpretations": {
+      "Deacon Paul": "Like stepping under a sturdy umbrella in a storm, God’s presence keeps you covered.",
+      "Sister Ruth": "Think of a quiet bunker during thunder—safety isn’t the absence of storms but God’s nearness."
+    }
+  },
+  {
+    "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "reference": "Isaiah 41:10",
+    "category": "Courage",
+    "tags": [
+      "fear",
+      "strength"
+    ],
+    "interpretations": {
+      "Pastor Chloe": "Walking into a tough room is different when a trusted friend is beside you—God is that Friend.",
+      "Brother Caleb": "Like a spotter at the gym, He helps lift what feels impossible."
+    }
+  },
+  {
+    "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "reference": "Matthew 6:33",
+    "category": "Priority",
+    "tags": [
+      "kingdom",
+      "provision"
+    ],
+    "interpretations": {
+      "Pastor Joel": "It’s setting your calendar before your cravings—God first, and the rest finds order.",
+      "Sister Lydia": "Like arranging big rocks before the sand in a jar; get the priorities right and it all fits."
+    }
+  },
+  {
+    "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+    "reference": "James 1:5",
+    "category": "Wisdom",
+    "tags": [
+      "wisdom",
+      "prayer"
+    ],
+    "interpretations": {
+      "Brother Stephen": "Like calling tech support before you break the device—ask first, and save time and tears.",
+      "Pastor Rachel": "God’s inbox isn’t capped. Ask again. He delights to answer."
+    }
+  },
+  {
+    "text": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+    "reference": "Proverbs 18:21",
+    "category": "Speech",
+    "tags": [
+      "words",
+      "power"
+    ],
+    "interpretations": {
+      "Sister Phoebe": "Words are seeds—plant praise and you’ll harvest peace.",
+      "Pastor Ezra": "Like steering a ship with a small rudder, your tongue can set the course of your day."
+    }
+  },
+  {
+    "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+    "reference": "2 Corinthians 5:17",
+    "category": "Identity",
+    "tags": [
+      "newness",
+      "identity"
+    ],
+    "interpretations": {
+      "Deacon Jonah": "It’s not a paint job; it’s a new engine. God doesn’t just polish—He replaces.",
+      "Sister Abigail": "Like getting a new passport; you have a new homeland and status now."
+    }
+  },
+  {
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+    "reference": "Galatians 5:22-23",
+    "category": "Character",
+    "tags": [
+      "fruit",
+      "spirit"
+    ],
+    "interpretations": {
+      "Pastor Gideon": "Think of nine lights on a dashboard—when the Spirit drives, they glow.",
+      "Brother Silas": "It’s a garden that grows when you stay rooted in God’s presence."
+    }
+  },
+  {
+    "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.",
+    "reference": "Ephesians 2:8-9",
+    "category": "Grace",
+    "tags": [
+      "grace",
+      "faith"
+    ],
+    "interpretations": {
+      "Sister Naomi": "Like a scholarship you didn’t earn; you receive it, you don’t repay it.",
+      "Pastor Levi": "Salvation isn’t a ladder to climb, it’s a hand that lifts."
+    }
+  },
+  {
+    "text": "Taste and see that the Lord is good; blessed is the one who takes refuge in him.",
+    "reference": "Psalm 34:8",
+    "category": "Praise",
+    "tags": [
+      "goodness",
+      "trust"
+    ],
+    "interpretations": {
+      "Brother Nathan": "You don’t review a bakery from photos—try God’s goodness firsthand.",
+      "Pastor Malachi": "Refuge is like a trusted café in a busy city—peace the moment you step in."
+    }
+  },
+  {
+    "text": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "reference": "Hebrews 11:1",
+    "category": "Faith",
+    "tags": [
+      "faith",
+      "hope"
+    ],
+    "interpretations": {
+      "Sister Esther": "Like clicking ‘buy’ before the package arrives—you trust the Sender.",
+      "Pastor Daniel": "Faith is the down payment on promises you’ve yet to move into."
+    }
+  },
+  {
+    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+    "reference": "1 Corinthians 13:4",
+    "category": "Love",
+    "tags": [
+      "love",
+      "patience"
+    ],
+    "interpretations": {
+      "Pastor Josiah": "Real love stands in the long line without complaining—it gives others space.",
+      "Sister Grace": "Love lowers the volume and raises the listening."
+    }
+  },
+  {
+    "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
+    "reference": "Romans 12:2",
+    "category": "Transformation",
+    "tags": [
+      "renewal",
+      "holiness"
+    ],
+    "interpretations": {
+      "Brother Simon": "It’s switching from auto‑pilot to a better flight plan—God rewrites the route.",
+      "Pastor Micah": "Like updating your OS; renewal fixes bugs you didn’t know were there."
+    }
+  },
+  {
+    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "reference": "Joshua 1:9",
+    "category": "Courage",
+    "tags": [
+      "courage",
+      "presence"
+    ],
+    "interpretations": {
+      "Sister Priscilla": "Like having a seasoned guide on a risky hike—His presence changes your posture.",
+      "Pastor Elias": "Courage is confidence in Company, not absence of cliffs."
+    }
+  },
+  {
+    "text": "Take delight in the Lord, and he will give you the desires of your heart.",
+    "reference": "Psalm 37:4",
+    "category": "Desire",
+    "tags": [
+      "delight",
+      "desire"
+    ],
+    "interpretations": {
+      "Deacon Ezra": "Aim your joy at God, and your aims start to look like His.",
+      "Sister Leah": "It’s tuning the guitar before the song—God aligns your desires to sing true."
+    }
+  },
+  {
+    "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+    "reference": "John 14:6",
+    "category": "Salvation",
+    "tags": [
+      "way",
+      "truth"
+    ],
+    "interpretations": {
+      "Pastor Jonah": "Not a map but a Guide—follow the Person, not just the path.",
+      "Brother Josiah": "Like the only door out of a burning building—clear and life‑saving."
+    }
+  },
+  {
+    "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "reference": "1 John 1:9",
+    "category": "Forgiveness",
+    "tags": [
+      "confession",
+      "forgiveness"
+    ],
+    "interpretations": {
+      "Sister Hannah": "Owning the mess invites the cleanup crew—God forgives and restores.",
+      "Pastor Gideon": "Confession is the key that opens the room where grace is already waiting."
+    }
+  },
+  {
+    "text": "Let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "reference": "Matthew 5:16",
+    "category": "Witness",
+    "tags": [
+      "light",
+      "good-works"
+    ],
+    "interpretations": {
+      "Brother Daniel": "Like turning on porch lights for neighbors—your kindness points homeward.",
+      "Sister Miriam": "Good works are signposts, not selfies—aim them toward God."
+    }
+  },
+  {
+    "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+    "reference": "Colossians 3:23",
+    "category": "Work",
+    "tags": [
+      "diligence",
+      "excellence"
+    ],
+    "interpretations": {
+      "Pastor Rachel": "If God were your direct supervisor, how would you finish this task? Do it that way.",
+      "Brother Elias": "Even unseen effort matters when the Boss sees everything."
+    }
+  },
+  {
+    "text": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+    "reference": "1 Thessalonians 5:16-18",
+    "category": "Discipline",
+    "tags": [
+      "joy",
+      "gratitude"
+    ],
+    "interpretations": {
+      "Sister Deborah": "Three daily vitamins: joy, prayer, thanks. Don’t skip doses.",
+      "Pastor Ezra": "These rhythms tune your day like scales tune a musician."
+    }
+  },
+  {
+    "text": "Above all else, guard your heart, for everything you do flows from it.",
+    "reference": "Proverbs 4:23",
+    "category": "Purity",
+    "tags": [
+      "heart",
+      "vigilance"
+    ],
+    "interpretations": {
+      "Deacon Paul": "Like a filter on your water line—protect the source to keep life clean.",
+      "Sister Grace": "Watch what enters your heart the way you watch what enters your home."
+    }
+  },
+  {
+    "text": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—think about such things.",
+    "reference": "Philippians 4:8",
+    "category": "Thought",
+    "tags": [
+      "mindset",
+      "purity"
+    ],
+    "interpretations": {
+      "Pastor Malachi": "Curate your mental feed like you curate social media—follow what is worth following.",
+      "Brother Stephen": "What loops in your mind leaks into your life; choose better loops."
+    }
+  },
+  {
+    "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
+    "reference": "John 10:10",
+    "category": "Life",
+    "tags": [
+      "abundance",
+      "purpose"
+    ],
+    "interpretations": {
+      "Sister Lydia": "The enemy is drain; Jesus is charge. Choose the outlet.",
+      "Pastor Joel": "Life in Christ is not survival mode but flourish mode."
+    }
+  },
+  {
+    "text": "Blessed is the one... whose delight is in the law of the Lord, and who meditates on his law day and night.",
+    "reference": "Psalm 1:1-3",
+    "category": "Wisdom",
+    "tags": [
+      "meditation",
+      "flourishing"
+    ],
+    "interpretations": {
+      "Brother Caleb": "Like a tree planted by a river—steady supply, steady growth.",
+      "Pastor Chloe": "Scripture is drip irrigation for your soul; consistency bears fruit."
+    }
+  },
+  {
+    "text": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+    "reference": "2 Timothy 1:7",
+    "category": "Spirit",
+    "tags": [
+      "courage",
+      "self-control"
+    ],
+    "interpretations": {
+      "Sister Phoebe": "Fear is a fog machine; the Spirit brings clarity and courage.",
+      "Deacon Jonah": "Power to act, love to aim, discipline to sustain."
+    }
+  },
+  {
+    "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "reference": "Romans 5:8",
+    "category": "Love",
+    "tags": [
+      "love",
+      "grace"
+    ],
+    "interpretations": {
+      "Pastor Levi": "He didn’t wait for you to clean up first—He loved you in the mess.",
+      "Sister Naomi": "Like someone paying your debt before you even knew the bill existed."
+    }
+  },
+  {
+    "text": "Therefore go and make disciples of all nations... And surely I am with you always, to the very end of the age.",
+    "reference": "Matthew 28:19-20",
+    "category": "Mission",
+    "tags": [
+      "go",
+      "discipleship"
+    ],
+    "interpretations": {
+      "Brother Silas": "It’s a passport with a promise—wherever you go, He goes with you.",
+      "Pastor Gideon": "Not just invitations to church, but invitations into a way of life."
+    }
+  },
+  {
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "reference": "Isaiah 26:3",
+    "category": "Peace",
+    "tags": [
+      "peace",
+      "trust"
+    ],
+    "interpretations": {
+      "Sister Abigail": "Peace is not found; it’s kept by focus—fix your mind on Him.",
+      "Pastor Jonah": "Like cruise control on a long highway—steady trust holds you at peace."
+    }
+  },
+  {
+    "text": "I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.",
+    "reference": "Psalm 121:1-2",
+    "category": "Help",
+    "tags": [
+      "help",
+      "trust"
+    ],
+    "interpretations": {
+      "Brother Nathan": "Look higher than the hills—your Helper built the hills.",
+      "Pastor Rachel": "When you’re outmatched, remember your Ally made the field."
     }
   }
 ]
