@@ -263,29 +263,42 @@
     }
   },
   {
-    "text": "And we know that in all things God works for the good of those who love him, who are called according to his purpose.",
-    "reference": "Romans 8:28",
-    "category": "Providence",
+    "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "reference": "Isaiah 41:10",
+    "category": "Courage",
     "tags": [
-      "purpose",
-      "providence"
+      "dragon",
+      "beast"
     ],
     "interpretations": {
-      "Pastor Samuel": "Like a master chef using even bitter ingredients to make a great meal, God weaves hard things into good.",
-      "Sister Joy": "Think of a collage: scraps and tears become art. God is making beauty with your story too."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you hope and a future.'",
+    "text": "We know that in all things God works for the good of those who love Him.",
+    "reference": "Romans 8:28",
+    "category": "Providence",
+    "tags": [
+      "demon",
+      "angel"
+    ],
+    "interpretations": {
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
+    }
+  },
+  {
+    "text": "'I know the plans I have for you,' declares the Lord—plans for hope and a future.",
     "reference": "Jeremiah 29:11",
     "category": "Hope",
     "tags": [
-      "hope",
-      "future"
+      "child",
+      "son"
     ],
     "interpretations": {
-      "Brother Mark": "Like accepting a job offer you can trust, God’s plan includes benefits you can’t yet see.",
-      "Pastor Miriam": "It’s a planted garden; some seeds take time, but the future is already in the soil."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
@@ -293,246 +306,233 @@
     "reference": "Psalm 91:1",
     "category": "Protection",
     "tags": [
-      "protection",
-      "refuge"
+      "daughter",
+      "serpent"
     ],
     "interpretations": {
-      "Deacon Paul": "Like stepping under a sturdy umbrella in a storm, God’s presence keeps you covered.",
-      "Sister Ruth": "Think of a quiet bunker during thunder—safety isn’t the absence of storms but God’s nearness."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
-    "reference": "Isaiah 41:10",
-    "category": "Courage",
-    "tags": [
-      "fear",
-      "strength"
-    ],
-    "interpretations": {
-      "Pastor Chloe": "Walking into a tough room is different when a trusted friend is beside you—God is that Friend.",
-      "Brother Caleb": "Like a spotter at the gym, He helps lift what feels impossible."
-    }
-  },
-  {
-    "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "text": "Seek first His kingdom and His righteousness, and all these things will be added to you.",
     "reference": "Matthew 6:33",
     "category": "Priority",
     "tags": [
-      "kingdom",
-      "provision"
+      "fruit",
+      "forest"
     ],
     "interpretations": {
-      "Pastor Joel": "It’s setting your calendar before your cravings—God first, and the rest finds order.",
-      "Sister Lydia": "Like arranging big rocks before the sand in a jar; get the priorities right and it all fits."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+    "text": "If any of you lacks wisdom, ask God who gives generously to all without finding fault.",
     "reference": "James 1:5",
     "category": "Wisdom",
     "tags": [
-      "wisdom",
-      "prayer"
+      "lion",
+      "lamb"
     ],
     "interpretations": {
-      "Brother Stephen": "Like calling tech support before you break the device—ask first, and save time and tears.",
-      "Pastor Rachel": "God’s inbox isn’t capped. Ask again. He delights to answer."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "The tongue has the power of life and death, and those who love it will eat its fruit.",
+    "text": "Death and life are in the power of the tongue, and those who love it will eat its fruit.",
     "reference": "Proverbs 18:21",
     "category": "Speech",
     "tags": [
-      "words",
-      "power"
+      "shepherd",
+      "vine"
     ],
     "interpretations": {
-      "Sister Phoebe": "Words are seeds—plant praise and you’ll harvest peace.",
-      "Pastor Ezra": "Like steering a ship with a small rudder, your tongue can set the course of your day."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+    "text": "If anyone is in Christ, he is a new creation; the old has gone, the new has come.",
     "reference": "2 Corinthians 5:17",
     "category": "Identity",
     "tags": [
-      "newness",
-      "identity"
+      "branch",
+      "seed"
     ],
     "interpretations": {
-      "Deacon Jonah": "It’s not a paint job; it’s a new engine. God doesn’t just polish—He replaces.",
-      "Sister Abigail": "Like getting a new passport; you have a new homeland and status now."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+    "text": "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.",
     "reference": "Galatians 5:22-23",
     "category": "Character",
     "tags": [
-      "fruit",
-      "spirit"
+      "harvest",
+      "bread"
     ],
     "interpretations": {
-      "Pastor Gideon": "Think of nine lights on a dashboard—when the Spirit drives, they glow.",
-      "Brother Silas": "It’s a garden that grows when you stay rooted in God’s presence."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.",
+    "text": "By grace you have been saved through faith—not from yourselves; it is the gift of God.",
     "reference": "Ephesians 2:8-9",
     "category": "Grace",
     "tags": [
-      "grace",
-      "faith"
+      "water",
+      "fire"
     ],
     "interpretations": {
-      "Sister Naomi": "Like a scholarship you didn’t earn; you receive it, you don’t repay it.",
-      "Pastor Levi": "Salvation isn’t a ladder to climb, it’s a hand that lifts."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "Taste and see that the Lord is good; blessed is the one who takes refuge in him.",
+    "text": "Taste and see that the Lord is good; blessed is the one who takes refuge in Him.",
     "reference": "Psalm 34:8",
     "category": "Praise",
     "tags": [
-      "goodness",
-      "trust"
+      "mountain",
+      "valley"
     ],
     "interpretations": {
-      "Brother Nathan": "You don’t review a bakery from photos—try God’s goodness firsthand.",
-      "Pastor Malachi": "Refuge is like a trusted café in a busy city—peace the moment you step in."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "text": "Faith is confidence in what we hope for and assurance about what we do not see.",
     "reference": "Hebrews 11:1",
     "category": "Faith",
     "tags": [
-      "faith",
-      "hope"
+      "storm",
+      "rock"
     ],
     "interpretations": {
-      "Sister Esther": "Like clicking ‘buy’ before the package arrives—you trust the Sender.",
-      "Pastor Daniel": "Faith is the down payment on promises you’ve yet to move into."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+    "text": "Love is patient, love is kind; it does not envy; it does not boast; it is not proud.",
     "reference": "1 Corinthians 13:4",
     "category": "Love",
     "tags": [
-      "love",
-      "patience"
+      "fortress",
+      "shield"
     ],
     "interpretations": {
-      "Pastor Josiah": "Real love stands in the long line without complaining—it gives others space.",
-      "Sister Grace": "Love lowers the volume and raises the listening."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
+    "text": "Do not conform to this world, but be transformed by the renewing of your mind.",
     "reference": "Romans 12:2",
     "category": "Transformation",
     "tags": [
-      "renewal",
-      "holiness"
+      "sword",
+      "armor"
     ],
     "interpretations": {
-      "Brother Simon": "It’s switching from auto‑pilot to a better flight plan—God rewrites the route.",
-      "Pastor Micah": "Like updating your OS; renewal fixes bugs you didn’t know were there."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "text": "Be strong and courageous; do not be afraid, for the Lord your God is with you.",
     "reference": "Joshua 1:9",
     "category": "Courage",
     "tags": [
-      "courage",
-      "presence"
+      "light",
+      "darkness"
     ],
     "interpretations": {
-      "Sister Priscilla": "Like having a seasoned guide on a risky hike—His presence changes your posture.",
-      "Pastor Elias": "Courage is confidence in Company, not absence of cliffs."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "Take delight in the Lord, and he will give you the desires of your heart.",
+    "text": "Delight yourself in the Lord, and He will give you the desires of your heart.",
     "reference": "Psalm 37:4",
     "category": "Desire",
     "tags": [
-      "delight",
-      "desire"
+      "path",
+      "gate"
     ],
     "interpretations": {
-      "Deacon Ezra": "Aim your joy at God, and your aims start to look like His.",
-      "Sister Leah": "It’s tuning the guitar before the song—God aligns your desires to sing true."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+    "text": "Jesus said, 'I am the way and the truth and the life.'",
     "reference": "John 14:6",
     "category": "Salvation",
     "tags": [
-      "way",
-      "truth"
+      "kingdom",
+      "cross"
     ],
     "interpretations": {
-      "Pastor Jonah": "Not a map but a Guide—follow the Person, not just the path.",
-      "Brother Josiah": "Like the only door out of a burning building—clear and life‑saving."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+    "text": "If we confess our sins, He is faithful and just to forgive and to cleanse.",
     "reference": "1 John 1:9",
     "category": "Forgiveness",
     "tags": [
-      "confession",
-      "forgiveness"
+      "resurrection",
+      "grace"
     ],
     "interpretations": {
-      "Sister Hannah": "Owning the mess invites the cleanup crew—God forgives and restores.",
-      "Pastor Gideon": "Confession is the key that opens the room where grace is already waiting."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "Let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "text": "Let your light shine before others, that they may see your good works and glorify your Father.",
     "reference": "Matthew 5:16",
     "category": "Witness",
     "tags": [
-      "light",
-      "good-works"
+      "mercy",
+      "justice"
     ],
     "interpretations": {
-      "Brother Daniel": "Like turning on porch lights for neighbors—your kindness points homeward.",
-      "Sister Miriam": "Good works are signposts, not selfies—aim them toward God."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.",
+    "text": "Whatever you do, work at it with all your heart, as working for the Lord.",
     "reference": "Colossians 3:23",
     "category": "Work",
     "tags": [
-      "diligence",
-      "excellence"
+      "righteousness",
+      "holiness"
     ],
     "interpretations": {
-      "Pastor Rachel": "If God were your direct supervisor, how would you finish this task? Do it that way.",
-      "Brother Elias": "Even unseen effort matters when the Boss sees everything."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+    "text": "Rejoice always, pray without ceasing, give thanks in all circumstances.",
     "reference": "1 Thessalonians 5:16-18",
     "category": "Discipline",
     "tags": [
-      "joy",
-      "gratitude"
+      "prayer",
+      "fasting"
     ],
     "interpretations": {
-      "Sister Deborah": "Three daily vitamins: joy, prayer, thanks. Don’t skip doses.",
-      "Pastor Ezra": "These rhythms tune your day like scales tune a musician."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
@@ -540,116 +540,116 @@
     "reference": "Proverbs 4:23",
     "category": "Purity",
     "tags": [
-      "heart",
-      "vigilance"
+      "anointing",
+      "oil"
     ],
     "interpretations": {
-      "Deacon Paul": "Like a filter on your water line—protect the source to keep life clean.",
-      "Sister Grace": "Watch what enters your heart the way you watch what enters your home."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—think about such things.",
+    "text": "Whatever is true, noble, right, pure, lovely, admirable—think on these things.",
     "reference": "Philippians 4:8",
     "category": "Thought",
     "tags": [
-      "mindset",
-      "purity"
+      "temple",
+      "holy-spirit"
     ],
     "interpretations": {
-      "Pastor Malachi": "Curate your mental feed like you curate social media—follow what is worth following.",
-      "Brother Stephen": "What loops in your mind leaks into your life; choose better loops."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
+    "text": "The thief comes to steal and kill and destroy; I came that they may have life abundantly.",
     "reference": "John 10:10",
     "category": "Life",
     "tags": [
-      "abundance",
-      "purpose"
+      "wisdom",
+      "faith"
     ],
     "interpretations": {
-      "Sister Lydia": "The enemy is drain; Jesus is charge. Choose the outlet.",
-      "Pastor Joel": "Life in Christ is not survival mode but flourish mode."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "Blessed is the one... whose delight is in the law of the Lord, and who meditates on his law day and night.",
+    "text": "Blessed is the one who delights in the law of the Lord; he is like a tree planted by streams of water.",
     "reference": "Psalm 1:1-3",
     "category": "Wisdom",
     "tags": [
-      "meditation",
-      "flourishing"
+      "hope",
+      "love"
     ],
     "interpretations": {
-      "Brother Caleb": "Like a tree planted by a river—steady supply, steady growth.",
-      "Pastor Chloe": "Scripture is drip irrigation for your soul; consistency bears fruit."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+    "text": "God gave us a spirit not of fear but of power, love, and self-control.",
     "reference": "2 Timothy 1:7",
     "category": "Spirit",
     "tags": [
-      "courage",
-      "self-control"
+      "joy",
+      "peace"
     ],
     "interpretations": {
-      "Sister Phoebe": "Fear is a fog machine; the Spirit brings clarity and courage.",
-      "Deacon Jonah": "Power to act, love to aim, discipline to sustain."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   },
   {
-    "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "text": "God demonstrates His love for us in that while we were still sinners, Christ died for us.",
     "reference": "Romans 5:8",
     "category": "Love",
     "tags": [
-      "love",
-      "grace"
+      "patience",
+      "kindness"
     ],
     "interpretations": {
-      "Pastor Levi": "He didn’t wait for you to clean up first—He loved you in the mess.",
-      "Sister Naomi": "Like someone paying your debt before you even knew the bill existed."
+      "Pastor Elijah": "Like switching on a lighthouse in fog, His truth redirects your steps.",
+      "Sister Grace": "Aim your heart at Him first; everything else clicks into place."
     }
   },
   {
-    "text": "Therefore go and make disciples of all nations... And surely I am with you always, to the very end of the age.",
+    "text": "Go and make disciples of all nations... I am with you always, to the end of the age.",
     "reference": "Matthew 28:19-20",
     "category": "Mission",
     "tags": [
-      "go",
-      "discipleship"
+      "goodness",
+      "gentleness"
     ],
     "interpretations": {
-      "Brother Silas": "It’s a passport with a promise—wherever you go, He goes with you.",
-      "Pastor Gideon": "Not just invitations to church, but invitations into a way of life."
+      "Brother Noah": "Like a fortress in a storm, His presence holds while winds rage.",
+      "Deacon Ezra": "Your words are seeds—plant life, and you’ll harvest peace."
     }
   },
   {
-    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "text": "You keep in perfect peace those whose minds are stayed on You, because they trust in You.",
     "reference": "Isaiah 26:3",
     "category": "Peace",
     "tags": [
-      "peace",
-      "trust"
+      "self-control",
+      "courage"
     ],
     "interpretations": {
-      "Sister Abigail": "Peace is not found; it’s kept by focus—fix your mind on Him.",
-      "Pastor Jonah": "Like cruise control on a long highway—steady trust holds you at peace."
+      "Pastor Elijah": "Like a spotter at the gym, God steadies the weight when it feels too heavy.",
+      "Sister Grace": "Picture a faithful friend on every trail—courage comes from Company."
     }
   },
   {
-    "text": "I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.",
+    "text": "I lift up my eyes to the hills—where does my help come from? My help comes from the Lord.",
     "reference": "Psalm 121:1-2",
     "category": "Help",
     "tags": [
-      "help",
-      "trust"
+      "refuge",
+      "guide"
     ],
     "interpretations": {
-      "Brother Nathan": "Look higher than the hills—your Helper built the hills.",
-      "Pastor Rachel": "When you’re outmatched, remember your Ally made the field."
+      "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
+      "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
   }
 ]
