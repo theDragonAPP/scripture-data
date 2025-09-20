@@ -63,7 +63,7 @@
     "interpretations": {
       "Devil": "You’re only strong if you keep proving yourself. Once you fail, you’re worthless.",
       "Flesh": "Use Christ as a power boost to get what you want.",
-      "Angel": "Christ strengthens you daily — not for ego, but for endurance.",
+      "Angel": "Christ strengthens you daily",
       "Spirit": "Union with Christ empowers contentment in all circumstances, not just victories."
     }
   },
@@ -165,8 +165,8 @@
     ],
     "interpretations": {
       "Devil": "Why ask? God’s silent. You’ll just be disappointed.",
-      "Flesh": "Ask only for what benefits you — quit if it takes effort.",
-      "Angel": "Ask humbly, seek patiently, knock faithfully — God hears you.",
+      "Flesh": "Ask only for what benefits you",
+      "Angel": "Ask humbly, seek patiently, knock faithfully",
       "Spirit": "Prayer aligns your heart with God’s will; persistence shapes your soul to receive."
     }
   },
