@@ -1640,5 +1640,429 @@
       "Angel": "Guard your spirit—be faithful to the wife of your youth.",
       "Spirit": "True covenant protects love and produces godly offspring."
     }
+  },
+  {
+    "reference": "1 Corinthians 6:18",
+    "category": "Purity",
+    "tags": [
+      "purity",
+      "temptation",
+      "body",
+      "honor",
+      "flight"
+    ],
+    "synonyms": [
+      "horny",
+      "lust",
+      "desire",
+      "urge",
+      "passion",
+      "heat",
+      "arousal",
+      "impulse",
+      "appetite",
+      "yearning"
+    ],
+    "antonyms": [
+      "chastity",
+      "sanctity",
+      "self-control",
+      "restraint",
+      "honor"
+    ],
+    "interpretations": {
+      "Devil": "Your urges define you—chase whatever you crave.",
+      "Flesh": "If desire burns, it must be satisfied.",
+      "Angel": "Flee temptation; honor God with your body and choices.",
+      "Spirit": "Redirect desire toward holiness; freedom grows as you run from sin to Christ."
+    }
+  },
+  {
+    "reference": "Proverbs 12:22",
+    "category": "Integrity",
+    "tags": [
+      "truth",
+      "speech",
+      "honesty",
+      "heart"
+    ],
+    "synonyms": [
+      "fake",
+      "false",
+      "lying",
+      "fraudulent",
+      "counterfeit",
+      "sham",
+      "deceptive",
+      "insincere",
+      "phony",
+      "hypocritical"
+    ],
+    "antonyms": [
+      "true",
+      "genuine",
+      "honest",
+      "authentic",
+      "faithful"
+    ],
+    "interpretations": {
+      "Devil": "A little lying keeps life simple.",
+      "Flesh": "Appear sincere even when you aren’t.",
+      "Angel": "The Lord delights in truthful lips; walk straight in word and deed.",
+      "Spirit": "Let integrity root in your heart until honesty is your native language."
+    }
+  },
+  {
+    "reference": "Psalm 133:1",
+    "category": "Unity",
+    "tags": [
+      "brothers",
+      "unity",
+      "community",
+      "peace",
+      "blessing"
+    ],
+    "synonyms": [
+      "camaraderie",
+      "fellowship",
+      "friendship",
+      "togetherness",
+      "solidarity",
+      "companionship",
+      "brotherhood",
+      "kinship",
+      "harmony",
+      "bond"
+    ],
+    "antonyms": [
+      "isolation",
+      "division",
+      "strife",
+      "enmity",
+      "discord"
+    ],
+    "interpretations": {
+      "Devil": "Stay independent; people only slow you down.",
+      "Flesh": "Bond only with those who benefit you.",
+      "Angel": "How good and pleasant it is when brethren dwell together in unity.",
+      "Spirit": "Pursue peace; shared worship and service knit hearts into strength."
+    }
+  },
+  {
+    "reference": "Exodus 31:3-5",
+    "category": "Skill",
+    "tags": [
+      "craft",
+      "wisdom",
+      "art",
+      "build",
+      "anointing"
+    ],
+    "synonyms": [
+      "masterful",
+      "skilled",
+      "adept",
+      "expert",
+      "artful",
+      "craftsmanlike",
+      "proficient",
+      "accomplished",
+      "gifted",
+      "capable"
+    ],
+    "antonyms": [
+      "inept",
+      "clumsy",
+      "unskilled",
+      "poor",
+      "amateur"
+    ],
+    "interpretations": {
+      "Devil": "Gift without character is enough—show off.",
+      "Flesh": "Use craft to elevate your name.",
+      "Angel": "God fills with wisdom and skill for excellent work that serves others.",
+      "Spirit": "Offer your mastery as worship; beauty and precision can glorify the Giver."
+    }
+  },
+  {
+    "reference": "Deuteronomy 18:10-12",
+    "category": "Sorcery",
+    "tags": [
+      "idolatry",
+      "occult",
+      "deception",
+      "power",
+      "forbidden"
+    ],
+    "synonyms": [
+      "alchemy",
+      "sorcery",
+      "witchcraft",
+      "enchantment",
+      "spellwork",
+      "transmutation",
+      "esoterica",
+      "occultism",
+      "arcana",
+      "magick"
+    ],
+    "antonyms": [
+      "truth",
+      "holiness",
+      "light",
+      "sobriety",
+      "obedience"
+    ],
+    "interpretations": {
+      "Devil": "Power is the point—take it any way you can.",
+      "Flesh": "Use spiritual show to impress and control.",
+      "Angel": "Reject occult shortcuts; God forbids practices that counterfeit His power.",
+      "Spirit": "Seek the Spirit, not spectacle; holiness is the way to true authority."
+    }
+  },
+  {
+    "reference": "Acts 8:9-11",
+    "category": "Sorcery",
+    "tags": [
+      "sorcerer",
+      "magic",
+      "deceive",
+      "fame"
+    ],
+    "synonyms": [
+      "alchemist",
+      "magician",
+      "charmer",
+      "conjuror",
+      "sorcerer",
+      "wizard",
+      "enchanter",
+      "occultist",
+      "diviner",
+      "trickster"
+    ],
+    "antonyms": [
+      "prophet",
+      "saint",
+      "truth-teller",
+      "disciple",
+      "servant"
+    ],
+    "interpretations": {
+      "Devil": "Power is the point-take it any way you can.",
+      "Flesh": "Use spiritual show to impress and control.",
+      "Angel": "Reject occult shortcuts; God forbids practices that counterfeit His power.",
+      "Spirit": "Seek the Spirit, not spectacle; holiness is the way to true authority."
+    }
+  },
+  {
+    "reference": "Revelation 12:9",
+    "category": "Conflict",
+    "tags": [
+      "warfare",
+      "serpent",
+      "accuser",
+      "victory"
+    ],
+    "synonyms": [
+      "dragon",
+      "serpent",
+      "leviathan",
+      "beast",
+      "monster",
+      "adversary",
+      "devourer",
+      "foe",
+      "enemy",
+      "accuser"
+    ],
+    "antonyms": [
+      "lamb",
+      "gentleness",
+      "innocence",
+      "peace",
+      "deliverer"
+    ],
+    "interpretations": {
+      "Devil": "Your enemy is invincible—submit to fear.",
+      "Flesh": "Fight with the same weapons of the accuser.",
+      "Angel": "The ancient dragon is cast down; salvation belongs to the Lamb.",
+      "Spirit": "Stand firm in Christ; testify and overcome by His blood and faithful witness."
+    }
+  },
+  {
+    "reference": "Psalm 103:5",
+    "category": "Strength",
+    "tags": [
+      "renewal",
+      "eagle",
+      "youth",
+      "lift"
+    ],
+    "synonyms": [
+      "soar",
+      "rise",
+      "fly",
+      "ascend",
+      "lift",
+      "glide",
+      "mount",
+      "uplift",
+      "surge",
+      "elevate"
+    ],
+    "antonyms": [
+      "sink",
+      "fall",
+      "plummet",
+      "weary",
+      "drag"
+    ],
+    "interpretations": {
+      "Devil": "Waiting is weakness—force an outcome.",
+      "Flesh": "Run on hype and hurry.",
+      "Angel": "The Lord renews your youth; you will mount up like eagles.",
+      "Spirit": "Strength rises in surrendered trust; lift on God’s updraft, not your own wind."
+    }
+  },
+  {
+    "reference": "Isaiah 61:1",
+    "category": "Healing",
+    "tags": [
+      "brokenhearted",
+      "wounds",
+      "bind",
+      "restore"
+    ],
+    "synonyms": [
+      "abused",
+      "mistreated",
+      "wounded",
+      "oppressed",
+      "traumatized",
+      "injured",
+      "violated",
+      "hurt",
+      "scarred",
+      "battered"
+    ],
+    "antonyms": [
+      "healed",
+      "cherished",
+      "protected",
+      "safe",
+      "comforted"
+    ],
+    "interpretations": {
+      "Devil": "Your wounds define your worth.",
+      "Flesh": "Hide your pain; harden your heart.",
+      "Angel": "The Lord binds the brokenhearted and heals their wounds.",
+      "Spirit": "Bring the bruise into His light; love restores what trauma tried to erase."
+    }
+  },
+  {
+    "reference": "Exodus 35:35",
+    "category": "Creativity",
+    "tags": [
+      "craft",
+      "skill",
+      "wisdom",
+      "beauty"
+    ],
+    "synonyms": [
+      "art",
+      "craft",
+      "design",
+      "workmanship",
+      "creativity",
+      "aesthetics",
+      "imagination",
+      "skill",
+      "composition",
+      "beauty"
+    ],
+    "antonyms": [
+      "chaos",
+      "destruction",
+      "ugliness",
+      "shoddy",
+      "careless"
+    ],
+    "interpretations": {
+      "Devil": "Art serves ego and shock value.",
+      "Flesh": "Copy trends to gain applause.",
+      "Angel": "The Spirit equips artisans with wisdom, understanding, and skill.",
+      "Spirit": "Create as stewardship; let beauty serve truth and bless your neighbor."
+    }
+  },
+  {
+    "reference": "1 Corinthians 13:4-7",
+    "category": "Love",
+    "tags": [
+      "charity",
+      "patience",
+      "kindness",
+      "truth"
+    ],
+    "synonyms": [
+      "love",
+      "charity",
+      "affection",
+      "devotion",
+      "steadfastness",
+      "benevolence",
+      "tenderness",
+      "faithfulness",
+      "care",
+      "compassion"
+    ],
+    "antonyms": [
+      "hate",
+      "envy",
+      "pride",
+      "selfishness",
+      "resentment"
+    ],
+    "interpretations": {
+      "Devil": "Love is just feeling—quit when it costs you.",
+      "Flesh": "Center love on yourself.",
+      "Angel": "Love is patient and kind; it rejoices in truth and bears all things.",
+      "Spirit": "Choose covenantal love; practice patience, mercy, and resilient kindness."
+    }
+  },
+  {
+    "reference": "Romans 8:37",
+    "category": "Victory",
+    "tags": [
+      "overcome",
+      "triumph",
+      "battle",
+      "faith"
+    ],
+    "synonyms": [
+      "conquer",
+      "overcome",
+      "prevail",
+      "triumph",
+      "subdue",
+      "vanquish",
+      "defeat",
+      "overpower",
+      "surmount",
+      "win"
+    ],
+    "antonyms": [
+      "surrender",
+      "yield",
+      "lose",
+      "submit",
+      "quit"
+    ],
+    "interpretations": {
+      "Devil": "Defeat is inevitable; lower your expectations.",
+      "Flesh": "Win to boast, not to bless.",
+      "Angel": "In Christ you are more than a conqueror through His love.",
+      "Spirit": "Overcome by faith; courage and humility march together under grace."
+    }
   }
 ]
