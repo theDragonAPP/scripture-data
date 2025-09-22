@@ -651,5 +651,642 @@
       "Brother Noah": "Like a master gardener, He prunes so you grow stronger.",
       "Deacon Ezra": "Think of roots near a river; trust keeps you nourished in every season."
     }
+  },
+  {
+    "text": "(See 1 Corinthians 6:18–20)",
+    "reference": "1 Corinthians 6:18–20",
+    "category": "Purity",
+    "tags": [
+      "holiness",
+      "body"
+    ],
+    "interpretations": {
+      "Angel": "You were bought with a price—your body is holy, meant for honor and faithful intimacy.",
+      "Spirit": "True freedom is consecrated desire: flee what defiles, and worship God with your body and choices."
+    }
+  },
+  {
+    "text": "(See Hebrews 13:4)",
+    "reference": "Hebrews 13:4",
+    "category": "Marriage",
+    "tags": [
+      "faithfulness",
+      "honor"
+    ],
+    "interpretations": {
+      "Angel": "Honor the marriage covenant—faithful love protects both heart and home.",
+      "Spirit": "Covenant intimacy reflects God’s faithfulness; guard it and you’ll flourish in trust and joy."
+    }
+  },
+  {
+    "text": "(See 1 Thessalonians 4:3–5)",
+    "reference": "1 Thessalonians 4:3–5",
+    "category": "Holiness",
+    "tags": [
+      "sanctification",
+      "self-control"
+    ],
+    "interpretations": {
+      "Angel": "God’s will is your sanctification—learn the art of self-control in honor.",
+      "Spirit": "Desire, submitted to God, becomes power for love rather than fuel for bondage."
+    }
+  },
+  {
+    "text": "(See Genesis 2:24)",
+    "reference": "Genesis 2:24",
+    "category": "Union",
+    "tags": [
+      "one flesh",
+      "leaving and cleaving"
+    ],
+    "interpretations": {
+      "Angel": "God designed covenant union for security, growth, and joy.",
+      "Spirit": "Leaving, cleaving, and becoming one flesh forms a sacred partnership that matures love and purpose."
+    }
+  },
+  {
+    "text": "(See Proverbs 5:15–18)",
+    "reference": "Proverbs 5:15–18",
+    "category": "Faithfulness",
+    "tags": [
+      "contentment",
+      "delight"
+    ],
+    "interpretations": {
+      "Angel": "Drink from your own well—find delight in faithful love.",
+      "Spirit": "Devoted desire deepens joy; faithfulness turns intimacy into lifelong blessing and strength."
+    }
+  },
+  {
+    "text": "(See Deuteronomy 30:15)",
+    "reference": "Deuteronomy 30:15",
+    "category": "Choice",
+    "tags": [
+      "life",
+      "death"
+    ],
+    "interpretations": {
+      "Angel": "God is placing life before you—choose the way that leads to blessing.",
+      "Spirit": "Set your heart toward obedience; choosing life means aligning your steps with God today."
+    }
+  },
+  {
+    "text": "(See Acts 1:8)",
+    "reference": "Acts 1:8",
+    "category": "Power",
+    "tags": [
+      "witness",
+      "Holy Spirit"
+    ],
+    "interpretations": {
+      "Angel": "The Spirit empowers you to bear true witness where you are and beyond.",
+      "Spirit": "God’s power turns ordinary life into a mission—live sent, speak true, love wide."
+    }
+  },
+  {
+    "text": "(See Ephesians 3:20)",
+    "reference": "Ephesians 3:20",
+    "category": "Hope",
+    "tags": [
+      "abundance",
+      "promise"
+    ],
+    "interpretations": {
+      "Angel": "God can do beyond what you ask or imagine, by His power at work in you.",
+      "Spirit": "Hope expands as you surrender; divine power shapes outcomes you couldn’t design alone."
+    }
+  },
+  {
+    "text": "(See Zechariah 4:6)",
+    "reference": "Zechariah 4:6",
+    "category": "Dependence",
+    "tags": [
+      "Spirit",
+      "work"
+    ],
+    "interpretations": {
+      "Angel": "Not by might or power, but by God’s Spirit the work is accomplished.",
+      "Spirit": "Grace-driven effort finishes what self-effort cannot—yield to the Spirit and build without burnout."
+    }
+  },
+  {
+    "text": "(See 1 Timothy 6:10)",
+    "reference": "1 Timothy 6:10",
+    "category": "Wealth",
+    "tags": [
+      "currency",
+      "money"
+    ],
+    "interpretations": {
+      "Angel": "Love of money destroys—guard your heart.",
+      "Spirit": "Use resources as tools, not masters; invest in eternal treasure."
+    }
+  },
+  {
+    "text": "(See Matthew 6:24)",
+    "reference": "Matthew 6:24",
+    "category": "Loyalty",
+    "tags": [
+      "currency",
+      "money"
+    ],
+    "interpretations": {
+      "Angel": "You cannot serve both God and money—choose wisely.",
+      "Spirit": "Freedom comes by serving God; money becomes servant, not master."
+    }
+  },
+  {
+    "text": "(See Proverbs 11:28)",
+    "reference": "Proverbs 11:28",
+    "category": "Security",
+    "tags": [
+      "currency",
+      "money"
+    ],
+    "interpretations": {
+      "Angel": "Those who trust riches will fall; righteousness flourishes.",
+      "Spirit": "Anchor hope in God—security grows beyond possessions."
+    }
+  },
+  {
+    "text": "(See Ecclesiastes 5:10)",
+    "reference": "Ecclesiastes 5:10",
+    "category": "Desire",
+    "tags": [
+      "currency",
+      "money"
+    ],
+    "interpretations": {
+      "Angel": "Love of money never satisfies—it multiplies craving.",
+      "Spirit": "Only God fulfills the restless heart; possessions are temporary."
+    }
+  },
+  {
+    "text": "(See Luke 12:15)",
+    "reference": "Luke 12:15",
+    "category": "Guard",
+    "tags": [
+      "currency",
+      "money"
+    ],
+    "interpretations": {
+      "Angel": "Life isn’t measured by possessions—beware greed.",
+      "Spirit": "Real abundance is found in God, not in storage barns."
+    }
+  },
+  {
+    "text": "(See John 11:35)",
+    "reference": "John 11:35",
+    "category": "Compassion",
+    "tags": [
+      "sadness",
+      "tears"
+    ],
+    "interpretations": {
+      "Angel": "Jesus wept—God shares in human sadness.",
+      "Spirit": "Christ’s tears dignify yours—He redeems sorrow with hope."
+    }
+  },
+  {
+    "text": "(See Ecclesiastes 3:4)",
+    "reference": "Ecclesiastes 3:4",
+    "category": "Seasons",
+    "tags": [
+      "sadness",
+      "weep"
+    ],
+    "interpretations": {
+      "Angel": "There is a time to weep and a time to laugh.",
+      "Spirit": "Embrace sadness as part of life’s rhythm; God weaves both into growth."
+    }
+  },
+  {
+    "text": "(See Matthew 5:4)",
+    "reference": "Matthew 5:4",
+    "category": "Blessing",
+    "tags": [
+      "sadness",
+      "mourn"
+    ],
+    "interpretations": {
+      "Angel": "Blessed are those who mourn, for they will be comforted.",
+      "Spirit": "Sadness invites God’s comfort; brokenness becomes blessing."
+    }
+  },
+  {
+    "text": "(See Isaiah 53:3)",
+    "reference": "Isaiah 53:3",
+    "category": "Suffering",
+    "tags": [
+      "sadness",
+      "grief"
+    ],
+    "interpretations": {
+      "Angel": "Christ bore sorrows and grief—He identifies with your sadness.",
+      "Spirit": "Your sadness is seen by the Man of Sorrows who redeems it."
+    }
+  },
+  {
+    "text": "(See Romans 8:18)",
+    "reference": "Romans 8:18",
+    "category": "Hope",
+    "tags": [
+      "pain",
+      "suffering"
+    ],
+    "interpretations": {
+      "Angel": "Present pain pales compared to future glory.",
+      "Spirit": "Pain is temporary; glory eternal. Endure with hope."
+    }
+  },
+  {
+    "text": "(See 2 Corinthians 12:9)",
+    "reference": "2 Corinthians 12:9",
+    "category": "Grace",
+    "tags": [
+      "pain",
+      "weakness"
+    ],
+    "interpretations": {
+      "Angel": "God’s grace is sufficient—His power shines in weakness.",
+      "Spirit": "Pain becomes the stage for grace; weakness is power inverted."
+    }
+  },
+  {
+    "text": "(See James 1:2–3)",
+    "reference": "James 1:2–3",
+    "category": "Trials",
+    "tags": [
+      "pain",
+      "testing"
+    ],
+    "interpretations": {
+      "Angel": "Trials test faith and grow endurance.",
+      "Spirit": "Pain matures faith; trials refine joy and hope."
+    }
+  },
+  {
+    "text": "(See Psalm 147:3)",
+    "reference": "Psalm 147:3",
+    "category": "Healing",
+    "tags": [
+      "pain",
+      "healing"
+    ],
+    "interpretations": {
+      "Angel": "God heals the brokenhearted and binds wounds.",
+      "Spirit": "Pain isn’t permanent; divine healing restores soul and body."
+    }
+  },
+  {
+    "text": "(See 1 Peter 5:10)",
+    "reference": "1 Peter 5:10",
+    "category": "Restoration",
+    "tags": [
+      "pain",
+      "suffering"
+    ],
+    "interpretations": {
+      "Angel": "After suffering, God restores, strengthens, and establishes you.",
+      "Spirit": "Pain births restoration; suffering prepares for eternal strength."
+    }
+  },
+  {
+    "text": "(See Exodus 7:10)",
+    "reference": "Exodus 7:10",
+    "category": "Miracle",
+    "tags": [
+      "magic",
+      "signs"
+    ],
+    "interpretations": {
+      "Angel": "God’s wonders prove His authority over false magic.",
+      "Spirit": "True power magnifies God, not man—it liberates, not enslaves."
+    }
+  },
+  {
+    "text": "(See Daniel 2:27–28)",
+    "reference": "Daniel 2:27–28",
+    "category": "Revelation",
+    "tags": [
+      "magic",
+      "mystery"
+    ],
+    "interpretations": {
+      "Angel": "No magician reveals mysteries; God in heaven does.",
+      "Spirit": "True revelation belongs to God—His light unlocks mysteries."
+    }
+  },
+  {
+    "text": "(See Acts 8:9–10)",
+    "reference": "Acts 8:9–10",
+    "category": "Deception",
+    "tags": [
+      "magic",
+      "sorcery"
+    ],
+    "interpretations": {
+      "Angel": "Simon amazed many with sorcery, but it was false power.",
+      "Spirit": "Magic that manipulates corrupts; Spirit power frees and reveals truth."
+    }
+  },
+  {
+    "text": "(See Matthew 2:1–2)",
+    "reference": "Matthew 2:1–2",
+    "category": "Guidance",
+    "tags": [
+      "magic",
+      "star"
+    ],
+    "interpretations": {
+      "Angel": "The magi followed the star to Christ.",
+      "Spirit": "God can even use mystic seekers to guide toward His Son."
+    }
+  },
+  {
+    "text": "(See Deuteronomy 18:10–12)",
+    "reference": "Deuteronomy 18:10–12",
+    "category": "Warning",
+    "tags": [
+      "magic",
+      "sorcery"
+    ],
+    "interpretations": {
+      "Angel": "God detests divination and sorcery—avoid them.",
+      "Spirit": "Reject dark magic; God’s Spirit provides wisdom and power."
+    }
+  },
+  {
+    "text": "(See Joshua 24:15)",
+    "reference": "Joshua 24:15",
+    "category": "Family",
+    "tags": [
+      "family",
+      "household"
+    ],
+    "interpretations": {
+      "Angel": "As for me and my house, we will serve the Lord.",
+      "Spirit": "Family flourishes when united under God’s purpose."
+    }
+  },
+  {
+    "text": "(See Ephesians 6:1–2)",
+    "reference": "Ephesians 6:1–2",
+    "category": "Honor",
+    "tags": [
+      "family",
+      "children"
+    ],
+    "interpretations": {
+      "Angel": "Children, obey and honor your parents—it brings blessing.",
+      "Spirit": "Honor within family reflects God’s design for harmony and blessing."
+    }
+  },
+  {
+    "text": "(See Colossians 3:13)",
+    "reference": "Colossians 3:13",
+    "category": "Forgiveness",
+    "tags": [
+      "family",
+      "forgive"
+    ],
+    "interpretations": {
+      "Angel": "Forgive as the Lord forgave you.",
+      "Spirit": "Forgiveness sustains family unity; grace binds hearts together."
+    }
+  },
+  {
+    "text": "(See Psalm 127:3–5)",
+    "reference": "Psalm 127:3–5",
+    "category": "Heritage",
+    "tags": [
+      "family",
+      "children"
+    ],
+    "interpretations": {
+      "Angel": "Children are a heritage from the Lord—blessing and reward.",
+      "Spirit": "Receive family as divine gift; nurture them with love and faith."
+    }
+  },
+  {
+    "text": "(See Proverbs 22:6)",
+    "reference": "Proverbs 22:6",
+    "category": "Training",
+    "tags": [
+      "family",
+      "children"
+    ],
+    "interpretations": {
+      "Angel": "Train children in the way they should go.",
+      "Spirit": "Discipleship within family plants seeds for lifelong faith."
+    }
+  },
+  {
+    "text": "(See Genesis 4:19)",
+    "reference": "Genesis 4:19",
+    "category": "Warning",
+    "tags": [
+      "polygamy",
+      "marriage"
+    ],
+    "interpretations": {
+      "Angel": "Lamech took two wives—a departure from God’s plan.",
+      "Spirit": "Polygamy reflects brokenness; God’s design is one flesh in unity."
+    }
+  },
+  {
+    "text": "(See Deuteronomy 17:17)",
+    "reference": "Deuteronomy 17:17",
+    "category": "Kingship",
+    "tags": [
+      "polygamy",
+      "wives"
+    ],
+    "interpretations": {
+      "Angel": "God warned kings not to multiply wives—it turns hearts away.",
+      "Spirit": "Guard your heart—faithful devotion protects from divided love."
+    }
+  },
+  {
+    "text": "(See 2 Samuel 5:13)",
+    "reference": "2 Samuel 5:13",
+    "category": "History",
+    "tags": [
+      "polygamy",
+      "David"
+    ],
+    "interpretations": {
+      "Angel": "David took more wives—Scripture records, not endorses.",
+      "Spirit": "Even heroes reveal flaws—God’s design remains covenant faithfulness."
+    }
+  },
+  {
+    "text": "(See 1 Kings 11:3)",
+    "reference": "1 Kings 11:3",
+    "category": "Compromise",
+    "tags": [
+      "polygamy",
+      "wives"
+    ],
+    "interpretations": {
+      "Angel": "Solomon’s wives turned his heart away from God.",
+      "Spirit": "Polygamy leads to divided worship; loyalty belongs to God alone."
+    }
+  },
+  {
+    "text": "(See Malachi 2:15)",
+    "reference": "Malachi 2:15",
+    "category": "Covenant",
+    "tags": [
+      "polygamy",
+      "faithfulness"
+    ],
+    "interpretations": {
+      "Angel": "Guard your spirit—be faithful to the wife of your youth.",
+      "Spirit": "True covenant protects love and produces godly offspring."
+    }
+  },
+  {
+    "text": "(See 1 Corinthians 6:18)",
+    "reference": "1 Corinthians 6:18",
+    "category": "Purity",
+    "tags": [
+      "purity",
+      "temptation"
+    ],
+    "interpretations": {
+      "Angel": "Flee temptation; honor God with your body and choices.",
+      "Spirit": "Redirect desire toward holiness; freedom grows as you run from sin to Christ."
+    }
+  },
+  {
+    "text": "(See Proverbs 12:22)",
+    "reference": "Proverbs 12:22",
+    "category": "Integrity",
+    "tags": [
+      "truth",
+      "speech"
+    ],
+    "interpretations": {
+      "Angel": "The Lord delights in truthful lips; walk straight in word and deed.",
+      "Spirit": "Let integrity root in your heart until honesty is your native language."
+    }
+  },
+  {
+    "text": "(See Psalm 133:1)",
+    "reference": "Psalm 133:1",
+    "category": "Unity",
+    "tags": [
+      "brothers",
+      "unity"
+    ],
+    "interpretations": {
+      "Angel": "How good and pleasant it is when brethren dwell together in unity.",
+      "Spirit": "Pursue peace; shared worship and service knit hearts into strength."
+    }
+  },
+  {
+    "text": "(See Exodus 31:3-5)",
+    "reference": "Exodus 31:3-5",
+    "category": "Skill",
+    "tags": [
+      "craft",
+      "wisdom"
+    ],
+    "interpretations": {
+      "Angel": "God fills with wisdom and skill for excellent work that serves others.",
+      "Spirit": "Offer your mastery as worship; beauty and precision can glorify the Giver."
+    }
+  },
+  {
+    "text": "(See Acts 8:9-11)",
+    "reference": "Acts 8:9-11",
+    "category": "Sorcery",
+    "tags": [
+      "sorcerer",
+      "magic"
+    ],
+    "interpretations": {
+      "Angel": "Reject occult shortcuts; God forbids practices that counterfeit His power.",
+      "Spirit": "Seek the Spirit, not spectacle; holiness is the way to true authority."
+    }
+  },
+  {
+    "text": "(See Revelation 12:9)",
+    "reference": "Revelation 12:9",
+    "category": "Conflict",
+    "tags": [
+      "warfare",
+      "serpent"
+    ],
+    "interpretations": {
+      "Angel": "The ancient dragon is cast down; salvation belongs to the Lamb.",
+      "Spirit": "Stand firm in Christ; testify and overcome by His blood and faithful witness."
+    }
+  },
+  {
+    "text": "(See Psalm 103:5)",
+    "reference": "Psalm 103:5",
+    "category": "Strength",
+    "tags": [
+      "renewal",
+      "eagle"
+    ],
+    "interpretations": {
+      "Angel": "The Lord renews your youth; you will mount up like eagles.",
+      "Spirit": "Strength rises in surrendered trust; lift on God’s updraft, not your own wind."
+    }
+  },
+  {
+    "text": "(See Isaiah 61:1)",
+    "reference": "Isaiah 61:1",
+    "category": "Healing",
+    "tags": [
+      "brokenhearted",
+      "wounds"
+    ],
+    "interpretations": {
+      "Angel": "The Lord binds the brokenhearted and heals their wounds.",
+      "Spirit": "Bring the bruise into His light; love restores what trauma tried to erase."
+    }
+  },
+  {
+    "text": "(See Exodus 35:35)",
+    "reference": "Exodus 35:35",
+    "category": "Creativity",
+    "tags": [
+      "craft",
+      "skill"
+    ],
+    "interpretations": {
+      "Angel": "The Spirit equips artisans with wisdom, understanding, and skill.",
+      "Spirit": "Create as stewardship; let beauty serve truth and bless your neighbor."
+    }
+  },
+  {
+    "text": "(See 1 Corinthians 13:4-7)",
+    "reference": "1 Corinthians 13:4-7",
+    "category": "Love",
+    "tags": [
+      "charity",
+      "patience"
+    ],
+    "interpretations": {
+      "Angel": "Love is patient and kind; it rejoices in truth and bears all things.",
+      "Spirit": "Choose covenantal love; practice patience, mercy, and resilient kindness."
+    }
+  },
+  {
+    "text": "(See Romans 8:37)",
+    "reference": "Romans 8:37",
+    "category": "Victory",
+    "tags": [
+      "overcome",
+      "triumph"
+    ],
+    "interpretations": {
+      "Angel": "In Christ you are more than a conqueror through His love.",
+      "Spirit": "Overcome by faith; courage and humility march together under grace."
+    }
   }
 ]
