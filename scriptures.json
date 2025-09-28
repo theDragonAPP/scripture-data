@@ -1288,5 +1288,95 @@
       "Brother Nathan": "It's the difference between just winning the game and owning the team. Through Christ, you don't just survive your trials; you have a victor's ownership over them. Face one challenge today with the authority that comes from that identity.",
       "Sister Miriam": "Through Christ's love, our victory in life's struggles is already secured. It’s like watching a replay of a game you already know your team won. Carry this gentle assurance into whatever challenges you face today; the outcome is not in doubt."
     }
-  }
+  },
+  {
+      "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+      "reference": "Micah 6:8",
+      "category": "Integrity",
+      "tags": ["justice", "mercy", "humility"],
+      "interpretations": {
+        "Pastor Elijah": "Integrity isn’t a vague vibe; it’s concrete—do justice, love mercy, walk humbly. Start with one small justice today: make a wrong right, even if no one sees.",
+        "Sister Grace": "Picture three steps: justice, mercy, humility. Take them in order and repeat. Choose one conversation today to practice mercy over winning."
+      }
+    },
+    {
+      "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+      "reference": "James 1:19",
+      "category": "Conflict",
+      "tags": ["anger", "listening", "self-control"],
+      "interpretations": {
+        "Brother Noah": "Treat listening like a green light and speaking like a red light—reverse the usual traffic. Before you reply, count to five and reflect back what you heard.",
+        "Deacon Ezra": "Your tongue is a trigger—put the safety on. Delay your response by a minute in your next heated moment and watch the temperature drop."
+      }
+    },
+    {
+      "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+      "reference": "Romans 12:2",
+      "category": "Holiness",
+      "tags": ["renewal", "mind", "nonconformity"],
+      "interpretations": {
+        "Pastor Micah": "Don’t remodel the facade—rewire the mind. Feed it Scripture daily and test your choices against God’s will this week.",
+        "Sister Lydia": "Think software update, not wallpaper change. Install truth today—memorize one line of Scripture and run it when old habits boot up."
+      }
+    },
+    {
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+      "reference": "Philippians 4:6",
+      "category": "Prayer",
+      "tags": ["anxiety", "supplication", "thanksgiving"],
+      "interpretations": {
+        "Pastor Josiah": "Worry is meditation without God. Trade it for prayer plus gratitude—write three thanks and one request before bed tonight.",
+        "Sister Naomi": "Turn your to-do list into a pray-through list. Whisper thanks between each request and hand them over one by one."
+      }
+    },
+    {
+      "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "category": "Comfort",
+      "tags": ["rest", "burden", "weariness"],
+      "interpretations": {
+        "Pastor Rachel": "Jesus doesn’t hand out tips; He offers Himself. Bring one weight you’re carrying and say out loud, “Jesus, I give You this.”",
+        "Brother Caleb": "Rest is not escape; it’s exchange—your burden for His. Take a ten-minute quiet walk today and breathe His name with each step."
+      }
+    },
+    {
+      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.",
+      "reference": "Ephesians 4:32",
+      "category": "Forgiveness",
+      "tags": ["kindness", "tenderhearted", "grace"],
+      "interpretations": {
+        "Deacon Jonah": "Cancel the debt like God canceled yours—full release, not a payment plan. Send one gracious text you’ve been avoiding.",
+        "Sister Phoebe": "Let tenderness be your reflex. Pray, “Jesus, soften me,” and choose a kind word where you’d usually go silent."
+      }
+    },
+    {
+      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+      "reference": "Hebrews 12:1-2",
+      "category": "Trials",
+      "tags": ["endurance", "race", "focus"],
+      "interpretations": {
+        "Brother Elias": "Run light—drop the weight and fix your eyes. Identify one habit that slows you and set a simple boundary today.",
+        "Pastor Levi": "Pace with Jesus’ joy, not your mood. Choose one daily rhythm (word, prayer, serve) and keep it when you’re tired."
+      }
+    },
+    {
+      "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+      "reference": "Galatians 6:9",
+      "category": "Strength",
+      "tags": ["perseverance", "good", "harvest"],
+      "interpretations": {
+        "Pastor Gideon": "Good seed takes time—don’t plow up the field in frustration. Do one small good today and leave the results to God.",
+        "Brother Silas": "Consistency beats intensity. Schedule a recurring 10-minute kindness you can keep every week."
+      }
+    },
+    {
+      "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+      "reference": "Proverbs 4:23",
+      "category": "Security",
+      "tags": ["heart", "guard", "life"],
+      "interpretations": {
+        "Sister Abigail": "Guard the well, not just the buckets. Set a gate on your inputs—choose one media fast for 24 hours.",
+        "Brother Noah": "Your heart is headquarters; protect it like mission control. Start and end today with five minutes of undistracted prayer."
+      }
+    }
 ]
