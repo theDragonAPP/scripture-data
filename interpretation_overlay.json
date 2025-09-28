@@ -8,22 +8,37 @@
       "grace"
     ],
     "synonyms": [
+      "affection",
+      "atone",
       "believe",
-      "trust",
+      "benevolence",
+      "care",
+      "charity",
+      "compassion",
+      "devotion",
+      "embrace",
+      "faithfulness",
       "gift",
-      "sacrifice",
-      "mercy",
       "grace",
       "life",
+      "love",
+      "mercy",
       "redeem",
-      "atone",
-      "embrace"
+      "sacrifice",
+      "steadfastness",
+      "tenderness",
+      "trust"
     ],
     "antonyms": [
-      "reject",
-      "doubt",
-      "condemn",
       "abandon",
+      "condemn",
+      "doubt",
+      "envy",
+      "hate",
+      "pride",
+      "reject",
+      "resentment",
+      "selfishness",
       "spurn"
     ],
     "interpretations": {
@@ -42,23 +57,46 @@
       "contentment"
     ],
     "synonyms": [
+      "abide",
+      "ascend",
+      "carry",
+      "elevate",
       "empower",
       "enable",
-      "sustain",
-      "fortify",
-      "withstand",
-      "persevere",
-      "abide",
       "endure",
+      "fly",
+      "fortify",
+      "glide",
+      "lift",
+      "mount",
       "overcome",
-      "prevail"
+      "persevere",
+      "prevail",
+      "renew",
+      "revive",
+      "rise",
+      "soar",
+      "stabilize",
+      "strengthen",
+      "surge",
+      "sustain",
+      "uplift",
+      "withstand"
     ],
     "antonyms": [
       "collapse",
-      "quit",
-      "weaken",
+      "despair",
+      "drag",
+      "drain",
       "fail",
-      "despair"
+      "faint",
+      "fall",
+      "give up",
+      "plummet",
+      "quit",
+      "sink",
+      "weaken",
+      "weary"
     ],
     "interpretations": {
       "Devil": "You’re only strong if you keep proving yourself. Once you fail, you’re worthless.",
@@ -77,23 +115,37 @@
       "security"
     ],
     "synonyms": [
-      "lead",
-      "guide",
-      "provide",
       "care",
+      "enchantment",
       "guard",
-      "pasture",
-      "rest",
-      "tend",
+      "guide",
       "keep",
-      "sustain"
+      "lead",
+      "magi",
+      "magic",
+      "mystery",
+      "mystic",
+      "pasture",
+      "prophecy",
+      "provide",
+      "rest",
+      "sign",
+      "star",
+      "sustain",
+      "tend",
+      "wonder"
     ],
     "antonyms": [
-      "lack",
-      "want",
       "abandon",
+      "blindness",
+      "confusion",
+      "ignorance",
+      "lack",
+      "lost",
+      "ordinary",
+      "starve",
       "stray",
-      "starve"
+      "want"
     ],
     "interpretations": {
       "Devil": "God withholds. You’ll be left behind if you don’t fend for yourself.",
@@ -111,23 +163,23 @@
       "surrender"
     ],
     "synonyms": [
-      "rely",
-      "depend",
-      "yield",
-      "submit",
-      "lean",
-      "entrust",
-      "confidence",
-      "faith",
       "acknowledge",
-      "direct"
+      "confidence",
+      "depend",
+      "direct",
+      "entrust",
+      "faith",
+      "lean",
+      "rely",
+      "submit",
+      "yield"
     ],
     "antonyms": [
-      "distrust",
-      "resist",
+      "control",
       "defy",
+      "distrust",
       "doubt",
-      "control"
+      "resist"
     ],
     "interpretations": {
       "Devil": "If you don’t rely on your own wisdom, you’ll be fooled.",
@@ -145,23 +197,23 @@
       "persistence"
     ],
     "synonyms": [
+      "access",
       "ask",
-      "petition",
-      "request",
-      "seek",
-      "pursue",
-      "search",
-      "knock",
-      "entry",
       "door",
-      "access"
+      "entry",
+      "knock",
+      "petition",
+      "pursue",
+      "request",
+      "search",
+      "seek"
     ],
     "antonyms": [
+      "doubt",
+      "give up",
       "ignore",
       "neglect",
-      "doubt",
-      "resign",
-      "give up"
+      "resign"
     ],
     "interpretations": {
       "Devil": "Why ask? God’s silent. You’ll just be disappointed.",
@@ -181,22 +233,34 @@
       "worship"
     ],
     "synonyms": [
-      "sex",
-      "purity",
+      "appetite",
+      "arousal",
+      "chastity",
+      "consecrate",
+      "desire",
       "fidelity",
-      "self-control",
-      "honor",
-      "intimacy",
-      "temple",
       "glorify",
+      "heat",
+      "honor",
+      "horny",
+      "impulse",
+      "intimacy",
+      "passion",
+      "purity",
       "sanctify",
-      "consecrate"
+      "sanctity",
+      "self-control",
+      "sex",
+      "temple",
+      "urge",
+      "yearning"
     ],
     "antonyms": [
-      "lust",
-      "defile",
       "betray",
+      "defile",
       "exploit",
+      "lust",
+      "restraint",
       "shame"
     ],
     "interpretations": {
@@ -217,23 +281,23 @@
       "integrity"
     ],
     "synonyms": [
-      "sex",
-      "marriage",
-      "honor",
       "commitment",
       "covenant",
-      "trust",
       "fidelity",
+      "honor",
+      "marriage",
       "sanctity",
+      "sex",
+      "trust",
       "union",
       "vow"
     ],
     "antonyms": [
       "adultery",
-      "deceit",
       "betrayal",
-      "defilement",
-      "contempt"
+      "contempt",
+      "deceit",
+      "defilement"
     ],
     "interpretations": {
       "Devil": "Commitment traps you; passion is better without boundaries.",
@@ -250,25 +314,26 @@
       "self-control",
       "calling",
       "purity",
-      "discipline"
+      "discipline",
+      "holy"
     ],
     "synonyms": [
-      "sex",
+      "cleanse",
+      "discipline",
+      "holy",
+      "honor",
+      "obedience",
+      "reverence",
       "sanctify",
       "self-control",
-      "holy",
-      "discipline",
-      "honor",
-      "reverence",
-      "cleanse",
       "set apart",
-      "obedience"
+      "sex"
     ],
     "antonyms": [
-      "passion-run-wild",
-      "impurity",
       "dishonor",
+      "impurity",
       "indulgence",
+      "passion-run-wild",
       "rebellion"
     ],
     "interpretations": {
@@ -289,23 +354,23 @@
       "intimacy"
     ],
     "synonyms": [
-      "sex",
-      "union",
-      "covenant",
-      "cling",
-      "one flesh",
       "belong",
       "bond",
+      "build",
+      "cling",
       "companionship",
+      "covenant",
+      "one flesh",
       "partnership",
-      "build"
+      "sex",
+      "union"
     ],
     "antonyms": [
-      "isolation",
-      "division",
       "abandon",
-      "use",
-      "fracture"
+      "division",
+      "fracture",
+      "isolation",
+      "use"
     ],
     "interpretations": {
       "Devil": "You’ll be safer staying unbound; intimacy only risks loss.",
@@ -325,23 +390,23 @@
       "guardrails"
     ],
     "synonyms": [
-      "sex",
-      "faithful",
-      "delight",
-      "satisfaction",
-      "guard",
-      "wisdom",
       "cherish",
-      "rejoice",
+      "content",
+      "delight",
       "devotion",
-      "content"
+      "faithful",
+      "guard",
+      "rejoice",
+      "satisfaction",
+      "sex",
+      "wisdom"
     ],
     "antonyms": [
-      "infidelity",
-      "wandering",
       "covet",
       "drain",
-      "folly"
+      "folly",
+      "infidelity",
+      "wandering"
     ],
     "interpretations": {
       "Devil": "Forbidden waters are sweeter—sample widely.",
@@ -361,17 +426,17 @@
       "obedience"
     ],
     "synonyms": [
-      "choose",
-      "decide",
-      "path",
       "blessing",
+      "choose",
       "curse",
+      "death",
+      "decide",
       "life",
-      "death"
+      "path"
     ],
     "antonyms": [
-      "indecision",
       "apathy",
+      "indecision",
       "rebellion"
     ],
     "interpretations": {
@@ -392,23 +457,23 @@
       "boldness"
     ],
     "synonyms": [
-      "empower",
-      "embolden",
-      "strengthen",
-      "steady",
-      "clarify",
-      "sound mind",
-      "fortify",
       "assure",
+      "clarify",
       "commission",
-      "equip"
+      "embolden",
+      "empower",
+      "equip",
+      "fortify",
+      "sound mind",
+      "steady",
+      "strengthen"
     ],
     "antonyms": [
-      "fear",
-      "timidity",
       "confusion",
+      "cowardice",
+      "fear",
       "paralysis",
-      "cowardice"
+      "timidity"
     ],
     "interpretations": {
       "Devil": "You don’t have what it takes—stay small and silent.",
@@ -422,29 +487,29 @@
     "category": "Power",
     "tags": [
       "witness",
-      "Holy Spirit",
+      "holy spirit",
       "mission",
       "boldness",
       "reach"
     ],
     "synonyms": [
-      "empower",
       "anoint",
+      "authorize",
       "commission",
-      "send",
-      "witness",
-      "strengthen",
+      "empower",
       "energize",
       "ignite",
       "propel",
-      "authorize"
+      "send",
+      "strengthen",
+      "witness"
     ],
     "antonyms": [
-      "powerless",
-      "mute",
-      "retreat",
       "apathy",
-      "hesitate"
+      "hesitate",
+      "mute",
+      "powerless",
+      "retreat"
     ],
     "interpretations": {
       "Devil": "Your story won’t matter—keep it to yourself.",
@@ -464,23 +529,38 @@
       "prayer"
     ],
     "synonyms": [
+      "abound",
+      "accomplish",
+      "ache",
+      "affliction",
+      "amplify",
+      "burden",
       "empower",
       "exceed",
-      "abound",
+      "fulfill",
+      "grief",
+      "hurt",
       "overflow",
+      "pain",
       "strengthen",
+      "struggle",
+      "suffering",
       "supply",
-      "amplify",
-      "accomplish",
-      "work within",
-      "fulfill"
+      "torment",
+      "trial",
+      "work within"
     ],
     "antonyms": [
-      "limit",
-      "scarcity",
+      "comfort",
       "doubt",
-      "settle",
-      "resign"
+      "ease",
+      "joy",
+      "limit",
+      "peace",
+      "relief",
+      "resign",
+      "scarcity",
+      "settle"
     ],
     "interpretations": {
       "Devil": "Expect little so you’re never disappointed.",
@@ -500,23 +580,46 @@
       "perseverance"
     ],
     "synonyms": [
+      "abide",
+      "ascend",
+      "carry",
+      "elevate",
       "empower",
+      "enable",
+      "endure",
+      "fly",
+      "fortify",
+      "glide",
+      "lift",
+      "mount",
+      "overcome",
+      "persevere",
+      "prevail",
       "renew",
+      "revive",
+      "rise",
+      "soar",
+      "stabilize",
+      "strengthen",
+      "surge",
       "sustain",
       "uplift",
-      "endure",
-      "revive",
-      "strengthen",
-      "carry",
-      "stabilize",
-      "persevere"
+      "withstand"
     ],
     "antonyms": [
-      "weary",
-      "faint",
       "collapse",
+      "despair",
+      "drag",
+      "drain",
+      "fail",
+      "faint",
+      "fall",
       "give up",
-      "drain"
+      "plummet",
+      "quit",
+      "sink",
+      "weaken",
+      "weary"
     ],
     "interpretations": {
       "Devil": "Waiting wastes time—push harder or quit.",
@@ -529,30 +632,30 @@
     "reference": "Zechariah 4:6",
     "category": "Dependence",
     "tags": [
-      "Spirit",
+      "spirit",
       "work",
       "grace",
       "victory",
       "humility"
     ],
     "synonyms": [
+      "anoint",
+      "build",
+      "carry",
+      "complete",
       "empower",
       "enable",
-      "anoint",
-      "supply",
       "fuel",
       "guide",
-      "carry",
-      "uphold",
-      "complete",
-      "build"
+      "supply",
+      "uphold"
     ],
     "antonyms": [
-      "strive",
       "boast",
-      "force",
       "exhaust",
-      "fail"
+      "fail",
+      "force",
+      "strive"
     ],
     "interpretations": {
       "Devil": "If you don’t force it, it will never happen.",
@@ -572,23 +675,23 @@
       "root"
     ],
     "synonyms": [
-      "money",
-      "wealth",
-      "riches",
+      "assets",
+      "contentment",
       "currency",
+      "detachment",
       "gain",
-      "profit",
-      "treasure",
+      "generosity",
       "gold",
+      "money",
+      "profit",
+      "riches",
       "silver",
-      "assets"
+      "simplicity",
+      "treasure",
+      "wealth"
     ],
     "antonyms": [
-      "contentment",
-      "poverty",
-      "generosity",
-      "simplicity",
-      "detachment"
+      "poverty"
     ],
     "interpretations": {
       "Devil": "Money is the only true power—worship it.",
@@ -604,27 +707,27 @@
       "currency",
       "money",
       "loyalty",
-      "God",
+      "god",
       "master"
     ],
     "synonyms": [
-      "money",
+      "abundance",
+      "capital",
+      "earnings",
+      "fortune",
       "mammon",
-      "wealth",
+      "money",
       "possession",
       "riches",
       "treasure",
-      "abundance",
-      "earnings",
-      "fortune",
-      "capital"
+      "wealth"
     ],
     "antonyms": [
-      "God",
+      "devotion",
       "faith",
-      "trust",
+      "god",
       "spirituality",
-      "devotion"
+      "trust"
     ],
     "interpretations": {
       "Devil": "Serve wealth—it will reward you best.",
@@ -644,23 +747,23 @@
       "flourish"
     ],
     "synonyms": [
-      "money",
-      "wealth",
-      "prosperity",
       "affluence",
-      "security",
       "fortune",
-      "success",
-      "riches",
       "gain",
-      "treasure"
+      "money",
+      "prosperity",
+      "riches",
+      "security",
+      "success",
+      "treasure",
+      "wealth"
     ],
     "antonyms": [
-      "poverty",
-      "need",
-      "loss",
       "emptiness",
-      "futility"
+      "futility",
+      "loss",
+      "need",
+      "poverty"
     ],
     "interpretations": {
       "Devil": "Wealth will never fail—cling to it.",
@@ -680,23 +783,23 @@
       "wealth"
     ],
     "synonyms": [
-      "money",
-      "wealth",
-      "gain",
-      "treasure",
-      "profit",
       "abundance",
+      "accumulation",
       "assets",
+      "contentment",
+      "gain",
       "greed",
+      "money",
       "possession",
-      "accumulation"
+      "profit",
+      "treasure",
+      "wealth"
     ],
     "antonyms": [
-      "contentment",
-      "satisfaction",
       "gratitude",
       "peace",
-      "rest"
+      "rest",
+      "satisfaction"
     ],
     "interpretations": {
       "Devil": "The more you have, the happier you’ll be—keep chasing.",
@@ -716,23 +819,23 @@
       "abundance"
     ],
     "synonyms": [
-      "money",
-      "wealth",
-      "possessions",
-      "riches",
-      "currency",
-      "treasure",
       "abundance",
+      "contentment",
+      "currency",
+      "fortune",
       "gain",
       "greed",
-      "fortune"
+      "humility",
+      "money",
+      "possessions",
+      "riches",
+      "simplicity",
+      "treasure",
+      "wealth"
     ],
     "antonyms": [
-      "contentment",
-      "simplicity",
       "life",
-      "peace",
-      "humility"
+      "peace"
     ],
     "interpretations": {
       "Devil": "Life equals possessions—the richer, the better.",
@@ -752,23 +855,23 @@
       "presence"
     ],
     "synonyms": [
+      "broken",
+      "despair",
+      "grief",
+      "hurt",
+      "lament",
+      "mourn",
       "sadness",
       "sorrow",
-      "broken",
-      "weep",
-      "grief",
-      "lament",
-      "despair",
       "tears",
-      "hurt",
-      "mourn"
+      "weep"
     ],
     "antonyms": [
-      "joy",
-      "gladness",
       "cheer",
+      "delight",
+      "gladness",
       "hope",
-      "delight"
+      "joy"
     ],
     "interpretations": {
       "Devil": "Your sadness proves God abandoned you.",
@@ -788,23 +891,23 @@
       "empathy"
     ],
     "synonyms": [
-      "sadness",
-      "tears",
-      "weep",
-      "mourn",
-      "sorrow",
-      "lament",
-      "hurt",
-      "grief",
       "cry",
-      "pain"
+      "grief",
+      "hurt",
+      "lament",
+      "mourn",
+      "pain",
+      "sadness",
+      "sorrow",
+      "tears",
+      "weep"
     ],
     "antonyms": [
-      "smile",
+      "celebration",
       "cheer",
       "joy",
-      "celebration",
-      "rejoice"
+      "rejoice",
+      "smile"
     ],
     "interpretations": {
       "Devil": "Even Jesus cried—so why believe in His power?",
@@ -824,23 +927,23 @@
       "joy"
     ],
     "synonyms": [
-      "sadness",
-      "grief",
-      "weep",
-      "lament",
-      "sorrow",
-      "mourning",
       "cry",
-      "loss",
+      "despair",
+      "grief",
       "hurt",
-      "despair"
+      "lament",
+      "loss",
+      "mourning",
+      "sadness",
+      "sorrow",
+      "weep"
     ],
     "antonyms": [
-      "joy",
-      "dance",
-      "laugh",
       "celebrate",
-      "gladness"
+      "dance",
+      "gladness",
+      "joy",
+      "laugh"
     ],
     "interpretations": {
       "Devil": "Sorrow will never end—this is forever.",
@@ -860,22 +963,22 @@
       "beatitude"
     ],
     "synonyms": [
-      "sadness",
-      "mourning",
-      "lament",
-      "weep",
       "cry",
-      "sorrow",
+      "grief",
       "hurt",
-      "pain",
+      "lament",
       "loss",
-      "grief"
+      "mourning",
+      "pain",
+      "sadness",
+      "sorrow",
+      "weep"
     ],
     "antonyms": [
       "comfort",
+      "delight",
       "joy",
       "peace",
-      "delight",
       "smile"
     ],
     "interpretations": {
@@ -896,23 +999,23 @@
       "rejection"
     ],
     "synonyms": [
-      "sadness",
-      "sorrow",
-      "grief",
-      "pain",
-      "lament",
-      "loss",
-      "hurt",
       "anguish",
       "despair",
-      "rejection"
+      "grief",
+      "hurt",
+      "lament",
+      "loss",
+      "pain",
+      "rejection",
+      "sadness",
+      "sorrow"
     ],
     "antonyms": [
-      "joy",
       "acceptance",
       "celebration",
       "delight",
-      "gladness"
+      "gladness",
+      "joy"
     ],
     "interpretations": {
       "Devil": "Even your Savior was crushed—hope is pointless.",
@@ -932,23 +1035,38 @@
       "future"
     ],
     "synonyms": [
-      "pain",
-      "suffering",
-      "hurt",
+      "abound",
+      "accomplish",
       "ache",
-      "trial",
-      "burden",
       "affliction",
+      "amplify",
+      "burden",
+      "empower",
+      "exceed",
+      "fulfill",
+      "grief",
+      "hurt",
+      "overflow",
+      "pain",
+      "strengthen",
       "struggle",
+      "suffering",
+      "supply",
       "torment",
-      "grief"
+      "trial",
+      "work within"
     ],
     "antonyms": [
-      "relief",
       "comfort",
+      "doubt",
       "ease",
       "joy",
-      "peace"
+      "limit",
+      "peace",
+      "relief",
+      "resign",
+      "scarcity",
+      "settle"
     ],
     "interpretations": {
       "Devil": "Pain proves God is cruel.",
@@ -968,23 +1086,23 @@
       "sufficiency"
     ],
     "synonyms": [
-      "pain",
-      "weakness",
-      "hurt",
-      "suffering",
-      "struggle",
+      "ache",
       "affliction",
       "anguish",
-      "trial",
       "grief",
-      "ache"
+      "hurt",
+      "pain",
+      "struggle",
+      "suffering",
+      "trial",
+      "weakness"
     ],
     "antonyms": [
-      "strength",
-      "ease",
-      "relief",
       "comfort",
-      "joy"
+      "ease",
+      "joy",
+      "relief",
+      "strength"
     ],
     "interpretations": {
       "Devil": "Your pain proves God abandoned you.",
@@ -1004,22 +1122,22 @@
       "endurance"
     ],
     "synonyms": [
-      "pain",
-      "trial",
-      "testing",
-      "hardship",
-      "struggle",
       "burden",
-      "suffering",
-      "hurt",
       "grief",
+      "hardship",
+      "hurt",
+      "pain",
+      "struggle",
+      "suffering",
+      "testing",
+      "trial",
       "tribulation"
     ],
     "antonyms": [
-      "ease",
       "comfort",
-      "pleasure",
+      "ease",
       "peace",
+      "pleasure",
       "rest"
     ],
     "interpretations": {
@@ -1040,22 +1158,36 @@
       "comfort"
     ],
     "synonyms": [
-      "pain",
-      "hurt",
-      "sorrow",
-      "suffering",
+      "abused",
       "ache",
+      "anguish",
+      "battered",
       "brokenness",
       "grief",
-      "wounds",
-      "anguish",
-      "tears"
+      "hurt",
+      "injured",
+      "mistreated",
+      "oppressed",
+      "pain",
+      "scarred",
+      "sorrow",
+      "suffering",
+      "tears",
+      "traumatized",
+      "violated",
+      "wounded",
+      "wounds"
     ],
     "antonyms": [
-      "healing",
+      "cherished",
       "comfort",
+      "comforted",
+      "healed",
+      "healing",
       "joy",
       "peace",
+      "protected",
+      "safe",
       "strength"
     ],
     "interpretations": {
@@ -1076,23 +1208,23 @@
       "hope"
     ],
     "synonyms": [
-      "pain",
-      "suffering",
-      "hurt",
-      "trial",
-      "grief",
       "affliction",
+      "anguish",
       "burden",
-      "struggle",
+      "grief",
+      "hurt",
       "loss",
-      "anguish"
+      "pain",
+      "struggle",
+      "suffering",
+      "trial"
     ],
     "antonyms": [
-      "restoration",
-      "peace",
       "comfort",
       "ease",
-      "joy"
+      "joy",
+      "peace",
+      "restoration"
     ],
     "interpretations": {
       "Devil": "Suffering never ends.",
@@ -1109,26 +1241,26 @@
       "signs",
       "power",
       "wonder",
-      "Pharaoh"
+      "pharaoh"
     ],
     "synonyms": [
-      "magic",
-      "wonder",
-      "miracle",
-      "sign",
-      "power",
-      "sorcery",
       "awe",
-      "mystery",
       "enchantment",
-      "supernatural"
+      "magic",
+      "miracle",
+      "mystery",
+      "power",
+      "sign",
+      "sorcery",
+      "supernatural",
+      "wonder"
     ],
     "antonyms": [
-      "ordinary",
-      "natural",
-      "mundane",
       "common",
-      "fraud"
+      "fraud",
+      "mundane",
+      "natural",
+      "ordinary"
     ],
     "interpretations": {
       "Devil": "Power is for show—control others with it.",
@@ -1148,23 +1280,23 @@
       "dreams"
     ],
     "synonyms": [
+      "dreams",
+      "hidden",
+      "interpretation",
       "magic",
       "mystery",
-      "dreams",
-      "vision",
-      "interpretation",
-      "wonder",
-      "supernatural",
       "prophecy",
       "revelation",
-      "hidden"
+      "supernatural",
+      "vision",
+      "wonder"
     ],
     "antonyms": [
-      "ignorance",
-      "confusion",
       "common",
+      "confusion",
+      "darkness",
       "fraud",
-      "darkness"
+      "ignorance"
     ],
     "interpretations": {
       "Devil": "Mysteries belong to you—claim the glory.",
@@ -1184,23 +1316,23 @@
       "power"
     ],
     "synonyms": [
-      "magic",
-      "sorcery",
       "bewitch",
-      "enchant",
-      "deceive",
-      "mystify",
-      "manipulate",
       "control",
+      "deceive",
+      "enchant",
+      "honesty",
       "illusion",
-      "trick"
+      "magic",
+      "manipulate",
+      "mystify",
+      "sorcery",
+      "trick",
+      "truth"
     ],
     "antonyms": [
-      "truth",
-      "honesty",
-      "light",
       "clarity",
-      "freedom"
+      "freedom",
+      "light"
     ],
     "interpretations": {
       "Devil": "Use enchantment to exalt yourself.",
@@ -1220,23 +1352,37 @@
       "seek"
     ],
     "synonyms": [
-      "magic",
-      "mystic",
-      "star",
-      "sign",
-      "wonder",
+      "care",
+      "enchantment",
+      "guard",
       "guide",
+      "keep",
+      "lead",
       "magi",
-      "prophecy",
+      "magic",
       "mystery",
-      "enchantment"
+      "mystic",
+      "pasture",
+      "prophecy",
+      "provide",
+      "rest",
+      "sign",
+      "star",
+      "sustain",
+      "tend",
+      "wonder"
     ],
     "antonyms": [
-      "ignorance",
-      "lost",
-      "confusion",
+      "abandon",
       "blindness",
-      "ordinary"
+      "confusion",
+      "ignorance",
+      "lack",
+      "lost",
+      "ordinary",
+      "starve",
+      "stray",
+      "want"
     ],
     "interpretations": {
       "Devil": "The stars control your destiny.",
@@ -1256,23 +1402,38 @@
       "abomination"
     ],
     "synonyms": [
-      "magic",
-      "sorcery",
-      "witchcraft",
+      "arrangement",
+      "concubine",
+      "custom",
+      "dark arts",
       "divination",
       "enchantment",
-      "spell",
-      "occult",
+      "faithfulness",
+      "holiness",
+      "magic",
+      "marriage",
+      "multiple",
       "mysticism",
-      "dark arts",
-      "necromancy"
+      "necromancy",
+      "obedience",
+      "occult",
+      "plural",
+      "polygamy",
+      "practice",
+      "purity",
+      "sorcery",
+      "spell",
+      "truth",
+      "union",
+      "witchcraft",
+      "wives"
     ],
     "antonyms": [
-      "truth",
-      "obedience",
+      "clarity",
+      "covenant",
       "light",
-      "holiness",
-      "clarity"
+      "monogamy",
+      "singularity"
     ],
     "interpretations": {
       "Devil": "Hidden arts give you real power—pursue them.",
@@ -1289,25 +1450,25 @@
       "household",
       "choice",
       "serve",
-      "Lord"
+      "lord"
     ],
     "synonyms": [
-      "family",
-      "household",
       "children",
-      "spouse",
       "clan",
-      "tribe",
-      "relatives",
+      "family",
       "home",
+      "household",
       "kin",
-      "lineage"
+      "lineage",
+      "relatives",
+      "spouse",
+      "tribe"
     ],
     "antonyms": [
-      "isolation",
       "abandonment",
       "division",
       "estrangement",
+      "isolation",
       "loneliness"
     ],
     "interpretations": {
@@ -1328,23 +1489,23 @@
       "honor"
     ],
     "synonyms": [
-      "family",
-      "parents",
       "children",
+      "family",
+      "generation",
+      "heritage",
+      "home",
       "household",
       "kin",
-      "generation",
-      "home",
+      "legacy",
       "offspring",
-      "heritage",
-      "legacy"
+      "parents"
     ],
     "antonyms": [
-      "dishonor",
-      "rebellion",
       "abandonment",
+      "dishonor",
+      "estrangement",
       "neglect",
-      "estrangement"
+      "rebellion"
     ],
     "interpretations": {
       "Devil": "Parents are burdens—discard them.",
@@ -1364,23 +1525,23 @@
       "relationship"
     ],
     "synonyms": [
+      "bond",
+      "compassion",
       "family",
       "forgive",
-      "unity",
-      "peace",
       "love",
-      "reconcile",
       "patience",
-      "compassion",
+      "peace",
+      "reconcile",
       "together",
-      "bond"
+      "unity"
     ],
     "antonyms": [
-      "resentment",
-      "division",
       "anger",
+      "division",
       "estrangement",
-      "grudge"
+      "grudge",
+      "resentment"
     ],
     "interpretations": {
       "Devil": "Hold grudges—family wounds never heal.",
@@ -1400,23 +1561,23 @@
       "gift"
     ],
     "synonyms": [
-      "family",
-      "children",
-      "offspring",
-      "heritage",
       "blessing",
-      "gift",
-      "legacy",
-      "generation",
+      "children",
+      "descendants",
+      "family",
       "fruit",
-      "descendants"
+      "generation",
+      "gift",
+      "heritage",
+      "legacy",
+      "offspring"
     ],
     "antonyms": [
+      "abandon",
       "barrenness",
-      "loss",
       "curse",
-      "neglect",
-      "abandon"
+      "loss",
+      "neglect"
     ],
     "interpretations": {
       "Devil": "Children are burdens—avoid them.",
@@ -1436,23 +1597,23 @@
       "future"
     ],
     "synonyms": [
-      "family",
-      "train",
       "children",
-      "guide",
-      "raise",
-      "teach",
       "direct",
       "discipline",
+      "family",
+      "guide",
+      "instruct",
       "nurture",
-      "instruct"
+      "raise",
+      "teach",
+      "train"
     ],
     "antonyms": [
-      "neglect",
       "abandon",
-      "misguide",
+      "estrange",
       "ignore",
-      "estrange"
+      "misguide",
+      "neglect"
     ],
     "interpretations": {
       "Devil": "Guidance won’t matter—they’ll stray anyway.",
@@ -1472,29 +1633,350 @@
       "example"
     ],
     "synonyms": [
-      "polygamy",
-      "wives",
-      "multiple",
-      "union",
-      "custom",
-      "concubine",
       "arrangement",
-      "plural",
+      "concubine",
+      "custom",
+      "dark arts",
+      "divination",
+      "enchantment",
+      "faithfulness",
+      "holiness",
+      "magic",
       "marriage",
-      "practice"
+      "multiple",
+      "mysticism",
+      "necromancy",
+      "obedience",
+      "occult",
+      "plural",
+      "polygamy",
+      "practice",
+      "purity",
+      "sorcery",
+      "spell",
+      "truth",
+      "union",
+      "witchcraft",
+      "wives"
     ],
     "antonyms": [
-      "monogamy",
-      "faithfulness",
+      "clarity",
       "covenant",
-      "singularity",
-      "purity"
+      "light",
+      "monogamy",
+      "singularity"
     ],
     "interpretations": {
       "Devil": "Take as many partners as you want—power is in numbers.",
       "Flesh": "Follow cultural customs over God’s design.",
       "Angel": "Lamech took two wives—a departure from God’s plan.",
       "Spirit": "Polygamy reflects brokenness; God’s design is one flesh in unity."
+    }
+  },
+  {
+    "reference": "Micah 6:8",
+    "category": "Integrity",
+    "tags": [
+      "justice",
+      "mercy",
+      "humility"
+    ],
+    "synonyms": [
+      "justice",
+      "mercy",
+      "humility",
+      "righteousness",
+      "walk",
+      "obedience",
+      "good"
+    ],
+    "antonyms": [
+      "injustice",
+      "cruelty",
+      "pride",
+      "hypocrisy",
+      "rebellion",
+      "corruption"
+    ],
+    "interpretations": {
+      "Devil": "Do what looks good to people; justice is optional if it costs you.",
+      "Flesh": "Be decent when convenient, but protect your image first.",
+      "Angel": "God already told you the good—do justice, love mercy, walk humbly.",
+      "Spirit": "Worship is ethics embodied: covenant faith lived as justice, mercy, and humility."
+    }
+  },
+  {
+    "reference": "James 1:5",
+    "category": "Guidance",
+    "tags": [
+      "wisdom",
+      "prayer",
+      "ask"
+    ],
+    "synonyms": [
+      "ask",
+      "wisdom",
+      "liberal",
+      "give",
+      "faith",
+      "generous"
+    ],
+    "antonyms": [
+      "doubt",
+      "self-reliance",
+      "pride",
+      "silence",
+      "withhold"
+    ],
+    "interpretations": {
+      "Devil": "You’re on your own—asking makes you look weak.",
+      "Flesh": "Figure it out yourself; pray only when you’ve run out of options.",
+      "Angel": "Ask God for wisdom—He gives generously without shaming you.",
+      "Spirit": "In prayerful dependence, wisdom is gifted, not earned—ask in faith."
+    }
+  },
+  {
+    "reference": "James 1:19",
+    "category": "Conflict",
+    "tags": [
+      "anger",
+      "listening",
+      "self-control"
+    ],
+    "synonyms": [
+      "listen",
+      "slow",
+      "patience",
+      "self-control",
+      "gentleness",
+      "restraint"
+    ],
+    "antonyms": [
+      "wrath",
+      "impulsiveness",
+      "rash",
+      "quarrel",
+      "outburst",
+      "rage"
+    ],
+    "interpretations": {
+      "Devil": "Fire back—speed wins the argument even if you lose your soul.",
+      "Flesh": "Speak first, think later. Venting is honest, right?",
+      "Angel": "Be quick to hear, slow to speak, slow to anger—peace starts there.",
+      "Spirit": "Crucify reaction; let the meekness of wisdom govern your tongue."
+    }
+  },
+  {
+    "reference": "Romans 12:2",
+    "category": "Holiness",
+    "tags": [
+      "renewal",
+      "mind",
+      "nonconformity"
+    ],
+    "synonyms": [
+      "transform",
+      "renew",
+      "mind",
+      "discern",
+      "holy",
+      "sacrifice",
+      "will of God"
+    ],
+    "antonyms": [
+      "conform",
+      "worldliness",
+      "compromise",
+      "corruption",
+      "numbness"
+    ],
+    "interpretations": {
+      "Devil": "Blend in—holiness is overkill in the real world.",
+      "Flesh": "Just tweak your behavior; your mind can stay the same.",
+      "Angel": "Be transformed by renewing your mind to discern God’s will.",
+      "Spirit": "Present yourself to God; His mercy rewires your thinking and living."
+    }
+  },
+  {
+    "reference": "Philippians 4:6",
+    "category": "Prayer",
+    "tags": [
+      "anxiety",
+      "supplication",
+      "thanksgiving"
+    ],
+    "synonyms": [
+      "prayer",
+      "petition",
+      "thanksgiving",
+      "trust",
+      "requests",
+      "peace"
+    ],
+    "antonyms": [
+      "anxiety",
+      "worry",
+      "fretting",
+      "restlessness",
+      "fear"
+    ],
+    "interpretations": {
+      "Devil": "Anxiety proves you care—nurse it.",
+      "Flesh": "Fix it yourself, then pray as backup.",
+      "Angel": "In everything, pray with thanksgiving; lay your requests before God.",
+      "Spirit": "Gratitude shapes petition; trust displaces anxiety with God’s peace."
+    }
+  },
+  {
+    "reference": "Matthew 11:28",
+    "category": "Comfort",
+    "tags": [
+      "rest",
+      "burden",
+      "weariness"
+    ],
+    "synonyms": [
+      "come",
+      "rest",
+      "gentle",
+      "yoke",
+      "relief",
+      "compassion"
+    ],
+    "antonyms": [
+      "strive",
+      "burnout",
+      "heavy-laden",
+      "despair",
+      "restlessness"
+    ],
+    "interpretations": {
+      "Devil": "Keep grinding; rest is for the naive.",
+      "Flesh": "Escape into numbing—rest without repentance.",
+      "Angel": "Come to Jesus weary and burdened; He will give you rest.",
+      "Spirit": "True rest lives in union with Christ—His yoke fits and frees."
+    }
+  },
+  {
+    "reference": "Ephesians 4:32",
+    "category": "Forgiveness",
+    "tags": [
+      "kindness",
+      "tenderhearted",
+      "grace"
+    ],
+    "synonyms": [
+      "kindness",
+      "tenderness",
+      "forgive",
+      "compassion",
+      "mercy",
+      "grace"
+    ],
+    "antonyms": [
+      "bitterness",
+      "malice",
+      "revenge",
+      "hardness",
+      "grudge"
+    ],
+    "interpretations": {
+      "Devil": "Hold the debt; power is in payback.",
+      "Flesh": "Be nice, but never forget—you might need leverage later.",
+      "Angel": "Be kind and forgiving as God forgave you in Christ.",
+      "Spirit": "Receive grace deeply, then mirror it—mercy becomes your reflex."
+    }
+  },
+  {
+    "reference": "Hebrews 12:1-2",
+    "category": "Trials",
+    "tags": [
+      "endurance",
+      "race",
+      "focus"
+    ],
+    "synonyms": [
+      "persevere",
+      "endure",
+      "race",
+      "fix eyes",
+      "Jesus",
+      "holiness",
+      "shed weight"
+    ],
+    "antonyms": [
+      "quit",
+      "entangle",
+      "distraction",
+      "sin",
+      "weariness",
+      "despair"
+    ],
+    "interpretations": {
+      "Devil": "It’s not worth it—drop the race and save face.",
+      "Flesh": "Carry your favorite sins; sprint when motivated, coast when not.",
+      "Angel": "Run with endurance, eyes on Jesus; cast off every weight and sin.",
+      "Spirit": "Suffering refines; with Christ before you, perseverance becomes worship."
+    }
+  },
+  {
+    "reference": "Galatians 6:9",
+    "category": "Strength",
+    "tags": [
+      "perseverance",
+      "good",
+      "harvest"
+    ],
+    "synonyms": [
+      "do good",
+      "persevere",
+      "endure",
+      "steadfast",
+      "harvest",
+      "due season"
+    ],
+    "antonyms": [
+      "faint",
+      "grow weary",
+      "quit",
+      "cynicism",
+      "idleness"
+    ],
+    "interpretations": {
+      "Devil": "Goodness is wasted—people won’t change.",
+      "Flesh": "Only do good when it pays fast.",
+      "Angel": "Do not grow weary in doing good; a harvest comes in season.",
+      "Spirit": "Sow in the Spirit; steady goodness ripens into eternal fruit."
+    }
+  },
+  {
+    "reference": "Proverbs 4:23",
+    "category": "Security",
+    "tags": [
+      "heart",
+      "guard",
+      "life"
+    ],
+    "synonyms": [
+      "guard",
+      "watch",
+      "diligence",
+      "purity",
+      "wisdom",
+      "focus"
+    ],
+    "antonyms": [
+      "careless",
+      "defile",
+      "distraction",
+      "corrupt",
+      "leak"
+    ],
+    "interpretations": {
+      "Devil": "Open your heart to everything—boundaries are fear.",
+      "Flesh": "Guard your brand, not your soul.",
+      "Angel": "Keep your heart with all diligence; life flows from there.",
+      "Spirit": "Order your loves; from a kept heart, a kept life springs."
     }
   },
   {
@@ -1508,23 +1990,23 @@
       "heart"
     ],
     "synonyms": [
-      "polygamy",
-      "wives",
-      "multiply",
-      "marriage",
-      "union",
       "concubine",
       "custom",
-      "practice",
       "excess",
-      "lust"
+      "faithfulness",
+      "lust",
+      "marriage",
+      "multiply",
+      "polygamy",
+      "practice",
+      "purity",
+      "simplicity",
+      "union",
+      "wives"
     ],
     "antonyms": [
-      "monogamy",
-      "faithfulness",
       "covenant",
-      "purity",
-      "simplicity"
+      "monogamy"
     ],
     "interpretations": {
       "Devil": "A king’s strength is in many wives.",
@@ -1538,29 +2020,29 @@
     "category": "History",
     "tags": [
       "polygamy",
-      "David",
+      "david",
       "wives",
       "concubines",
       "custom"
     ],
     "synonyms": [
-      "polygamy",
-      "wives",
-      "concubines",
-      "custom",
-      "union",
       "arrangement",
-      "practice",
-      "plural",
+      "concubines",
+      "culture",
+      "custom",
+      "faithfulness",
       "marriage",
-      "culture"
+      "plural",
+      "polygamy",
+      "practice",
+      "purity",
+      "union",
+      "wives"
     ],
     "antonyms": [
-      "monogamy",
-      "faithfulness",
       "covenant",
-      "singular",
-      "purity"
+      "monogamy",
+      "singular"
     ],
     "interpretations": {
       "Devil": "Even God’s chosen had many wives—it must be fine.",
@@ -1577,26 +2059,26 @@
       "wives",
       "idolatry",
       "turning away",
-      "Solomon"
+      "solomon"
     ],
     "synonyms": [
-      "polygamy",
-      "wives",
+      "alliance",
+      "arrangement",
       "concubines",
-      "union",
+      "custom",
+      "faithfulness",
+      "loyalty",
       "marriage",
       "plural",
-      "custom",
+      "polygamy",
       "practice",
-      "alliance",
-      "arrangement"
+      "purity",
+      "union",
+      "wives"
     ],
     "antonyms": [
-      "monogamy",
-      "faithfulness",
       "covenant",
-      "purity",
-      "loyalty"
+      "monogamy"
     ],
     "interpretations": {
       "Devil": "More wives, more glory.",
@@ -1616,23 +2098,23 @@
       "godly offspring"
     ],
     "synonyms": [
-      "polygamy",
-      "wives",
-      "marriage",
-      "union",
-      "covenant",
-      "offspring",
-      "heritage",
-      "family",
       "bond",
-      "commitment"
+      "commitment",
+      "covenant",
+      "faithfulness",
+      "family",
+      "heritage",
+      "integrity",
+      "marriage",
+      "offspring",
+      "polygamy",
+      "purity",
+      "truth",
+      "union",
+      "wives"
     ],
     "antonyms": [
-      "monogamy",
-      "faithfulness",
-      "purity",
-      "integrity",
-      "truth"
+      "monogamy"
     ],
     "interpretations": {
       "Devil": "Multiple unions ensure stronger legacy.",
@@ -1652,23 +2134,35 @@
       "flight"
     ],
     "synonyms": [
-      "horny",
-      "lust",
-      "desire",
-      "urge",
-      "passion",
-      "heat",
-      "arousal",
-      "impulse",
       "appetite",
+      "arousal",
+      "chastity",
+      "consecrate",
+      "desire",
+      "fidelity",
+      "glorify",
+      "heat",
+      "honor",
+      "horny",
+      "impulse",
+      "intimacy",
+      "passion",
+      "purity",
+      "sanctify",
+      "sanctity",
+      "self-control",
+      "sex",
+      "temple",
+      "urge",
       "yearning"
     ],
     "antonyms": [
-      "chastity",
-      "sanctity",
-      "self-control",
+      "betray",
+      "defile",
+      "exploit",
+      "lust",
       "restraint",
-      "honor"
+      "shame"
     ],
     "interpretations": {
       "Devil": "Your urges define you—chase whatever you crave.",
@@ -1687,23 +2181,23 @@
       "heart"
     ],
     "synonyms": [
+      "counterfeit",
+      "deceptive",
       "fake",
       "false",
-      "lying",
       "fraudulent",
-      "counterfeit",
-      "sham",
-      "deceptive",
+      "hypocritical",
       "insincere",
+      "lying",
       "phony",
-      "hypocritical"
+      "sham"
     ],
     "antonyms": [
-      "true",
+      "authentic",
+      "faithful",
       "genuine",
       "honest",
-      "authentic",
-      "faithful"
+      "true"
     ],
     "interpretations": {
       "Devil": "A little lying keeps life simple.",
@@ -1723,23 +2217,23 @@
       "blessing"
     ],
     "synonyms": [
+      "bond",
+      "brotherhood",
       "camaraderie",
+      "companionship",
       "fellowship",
       "friendship",
-      "togetherness",
-      "solidarity",
-      "companionship",
-      "brotherhood",
-      "kinship",
       "harmony",
-      "bond"
+      "kinship",
+      "solidarity",
+      "togetherness"
     ],
     "antonyms": [
-      "isolation",
+      "discord",
       "division",
-      "strife",
       "enmity",
-      "discord"
+      "isolation",
+      "strife"
     ],
     "interpretations": {
       "Devil": "Stay independent; people only slow you down.",
@@ -1759,23 +2253,23 @@
       "anointing"
     ],
     "synonyms": [
-      "masterful",
-      "skilled",
-      "adept",
-      "expert",
-      "artful",
-      "craftsmanlike",
-      "proficient",
       "accomplished",
+      "adept",
+      "artful",
+      "capable",
+      "craftsmanlike",
+      "expert",
       "gifted",
-      "capable"
+      "masterful",
+      "proficient",
+      "skilled"
     ],
     "antonyms": [
-      "inept",
+      "amateur",
       "clumsy",
-      "unskilled",
+      "inept",
       "poor",
-      "amateur"
+      "unskilled"
     ],
     "interpretations": {
       "Devil": "Gift without character is enough—show off.",
@@ -1795,23 +2289,38 @@
       "forbidden"
     ],
     "synonyms": [
+      "alchemist",
       "alchemy",
-      "sorcery",
-      "witchcraft",
+      "arcana",
+      "charmer",
+      "conjuror",
+      "diviner",
+      "enchanter",
       "enchantment",
+      "esoterica",
+      "holiness",
+      "magician",
+      "magick",
+      "obedience",
+      "occultism",
+      "occultist",
+      "sorcerer",
+      "sorcery",
       "spellwork",
       "transmutation",
-      "esoterica",
-      "occultism",
-      "arcana",
-      "magick"
+      "trickster",
+      "truth",
+      "witchcraft",
+      "wizard"
     ],
     "antonyms": [
-      "truth",
-      "holiness",
+      "disciple",
       "light",
+      "prophet",
+      "saint",
+      "servant",
       "sobriety",
-      "obedience"
+      "truth-teller"
     ],
     "interpretations": {
       "Devil": "Power is the point—take it any way you can.",
@@ -1831,22 +2340,37 @@
     ],
     "synonyms": [
       "alchemist",
-      "magician",
+      "alchemy",
+      "arcana",
       "charmer",
       "conjuror",
-      "sorcerer",
-      "wizard",
-      "enchanter",
-      "occultist",
       "diviner",
-      "trickster"
+      "enchanter",
+      "enchantment",
+      "esoterica",
+      "holiness",
+      "magician",
+      "magick",
+      "obedience",
+      "occultism",
+      "occultist",
+      "sorcerer",
+      "sorcery",
+      "spellwork",
+      "transmutation",
+      "trickster",
+      "truth",
+      "witchcraft",
+      "wizard"
     ],
     "antonyms": [
+      "disciple",
+      "light",
       "prophet",
       "saint",
-      "truth-teller",
-      "disciple",
-      "servant"
+      "servant",
+      "sobriety",
+      "truth-teller"
     ],
     "interpretations": {
       "Devil": "Power is the point-take it any way you can.",
@@ -1865,23 +2389,23 @@
       "victory"
     ],
     "synonyms": [
-      "dragon",
-      "serpent",
-      "leviathan",
-      "beast",
-      "monster",
+      "accuser",
       "adversary",
+      "beast",
       "devourer",
-      "foe",
+      "dragon",
       "enemy",
-      "accuser"
+      "foe",
+      "gentleness",
+      "leviathan",
+      "monster",
+      "serpent"
     ],
     "antonyms": [
-      "lamb",
-      "gentleness",
+      "deliverer",
       "innocence",
-      "peace",
-      "deliverer"
+      "lamb",
+      "peace"
     ],
     "interpretations": {
       "Devil": "Your enemy is invincible—submit to fear.",
@@ -1900,23 +2424,46 @@
       "lift"
     ],
     "synonyms": [
-      "soar",
-      "rise",
-      "fly",
+      "abide",
       "ascend",
-      "lift",
+      "carry",
+      "elevate",
+      "empower",
+      "enable",
+      "endure",
+      "fly",
+      "fortify",
       "glide",
+      "lift",
       "mount",
-      "uplift",
+      "overcome",
+      "persevere",
+      "prevail",
+      "renew",
+      "revive",
+      "rise",
+      "soar",
+      "stabilize",
+      "strengthen",
       "surge",
-      "elevate"
+      "sustain",
+      "uplift",
+      "withstand"
     ],
     "antonyms": [
-      "sink",
+      "collapse",
+      "despair",
+      "drag",
+      "drain",
+      "fail",
+      "faint",
       "fall",
+      "give up",
       "plummet",
-      "weary",
-      "drag"
+      "quit",
+      "sink",
+      "weaken",
+      "weary"
     ],
     "interpretations": {
       "Devil": "Waiting is weakness—force an outcome.",
@@ -1936,22 +2483,36 @@
     ],
     "synonyms": [
       "abused",
-      "mistreated",
-      "wounded",
-      "oppressed",
-      "traumatized",
-      "injured",
-      "violated",
+      "ache",
+      "anguish",
+      "battered",
+      "brokenness",
+      "grief",
       "hurt",
+      "injured",
+      "mistreated",
+      "oppressed",
+      "pain",
       "scarred",
-      "battered"
+      "sorrow",
+      "suffering",
+      "tears",
+      "traumatized",
+      "violated",
+      "wounded",
+      "wounds"
     ],
     "antonyms": [
-      "healed",
       "cherished",
+      "comfort",
+      "comforted",
+      "healed",
+      "healing",
+      "joy",
+      "peace",
       "protected",
       "safe",
-      "comforted"
+      "strength"
     ],
     "interpretations": {
       "Devil": "Your wounds define your worth.",
@@ -1970,23 +2531,23 @@
       "beauty"
     ],
     "synonyms": [
-      "art",
-      "craft",
-      "design",
-      "workmanship",
-      "creativity",
       "aesthetics",
+      "art",
+      "beauty",
+      "composition",
+      "craft",
+      "creativity",
+      "design",
       "imagination",
       "skill",
-      "composition",
-      "beauty"
+      "workmanship"
     ],
     "antonyms": [
+      "careless",
       "chaos",
       "destruction",
-      "ugliness",
       "shoddy",
-      "careless"
+      "ugliness"
     ],
     "interpretations": {
       "Devil": "Art serves ego and shock value.",
@@ -2005,23 +2566,38 @@
       "truth"
     ],
     "synonyms": [
-      "love",
-      "charity",
       "affection",
-      "devotion",
-      "steadfastness",
+      "atone",
+      "believe",
       "benevolence",
-      "tenderness",
-      "faithfulness",
       "care",
-      "compassion"
+      "charity",
+      "compassion",
+      "devotion",
+      "embrace",
+      "faithfulness",
+      "gift",
+      "grace",
+      "life",
+      "love",
+      "mercy",
+      "redeem",
+      "sacrifice",
+      "steadfastness",
+      "tenderness",
+      "trust"
     ],
     "antonyms": [
-      "hate",
+      "abandon",
+      "condemn",
+      "doubt",
       "envy",
+      "hate",
       "pride",
+      "reject",
+      "resentment",
       "selfishness",
-      "resentment"
+      "spurn"
     ],
     "interpretations": {
       "Devil": "Love is just feeling—quit when it costs you.",
@@ -2041,22 +2617,22 @@
     ],
     "synonyms": [
       "conquer",
-      "overcome",
-      "prevail",
-      "triumph",
-      "subdue",
-      "vanquish",
       "defeat",
+      "overcome",
       "overpower",
+      "prevail",
+      "subdue",
       "surmount",
+      "triumph",
+      "vanquish",
       "win"
     ],
     "antonyms": [
-      "surrender",
-      "yield",
       "lose",
+      "quit",
       "submit",
-      "quit"
+      "surrender",
+      "yield"
     ],
     "interpretations": {
       "Devil": "Defeat is inevitable; lower your expectations.",
